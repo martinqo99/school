@@ -1,0 +1,16 @@
+C:\Users\B04_806B\Desktop\kostra\WPFChat\bin\Debug\WPFChat.exe
+C:\Users\B04_806B\Desktop\kostra\WPFChat\bin\Debug\WPFChat.pdb
+C:\Users\B04_806B\Desktop\kostra\WPFChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\B04_806B\Desktop\kostra\WPFChat\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\B04_806B\Desktop\kostra\WPFChat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\MainWindows.baml
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\MainWindows.g.cs
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\App.g.cs
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\WPFChat_MarkupCompile.cache
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\WPFChat.g.resources
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\WPFChat.Properties.Resources.resources
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\WPFChat.exe
+C:\Users\B04_806B\Desktop\kostra\WPFChat\obj\Debug\WPFChat.pdb

@@ -1,0 +1,232 @@
+#!/bin/sh
+#
+# Nazov    : ardiff, A.Prace s archivy
+# Autor    : Michal Lukac, xlukac05@stud.fit.vutbr.cz
+# Datum    : 16.3.2011
+# Info     : Tento skript sluzi ako prvy projekt pre predmet IOS na VUT FIT.
+#            Ulohou tohoto skriptu je praca s archivami ich porovnavanie,
+#            ukladanie a aplikaciami zmen.
+# P.riadkov: 231
+# Testovane: na systemoch FREEBSD, LINUX, SOLARIS
+#================================================================================
+
+tmppwd="$PWD"                                          # aktualna zlozka
+tmp="/tmp/xlukac05f"                                   # zlozka pre docasne subory
+system="$(uname)"                                      # typ operacneho systemu
+emsg="Chyba! Pouzite ./ardiff pre vypisanie spravy.\n" # sprava pre chybu
+trap 'clean_files' INT HUP STOP TSTP KILL TERM         # zachytenie signalu pre vymazanie 
+
+# Funkcia print_help() vypise napovedu pre skript.
+print_help(){
+printf "ardiff vypisuje zmeny archivu, vytvari rozdilovy archiv nebo aplikuje rozdilovy\n"
+printf "archiv na zdrojovy archiv.\n"
+printf "Pouziti: ardiff [volby] archiv1 archiv2\n"
+printf "Volby:\n"
+printf "  -o SOUBOR  Pokud je cilem skriptu vytvorit archiv, bude vytvoren do souboru\n"
+printf "             se jmenem SOUBOR (plati pro -c a -p).\n"
+printf "  -l         Vypis seznamu souboru, ktere se v zadanych archivech lisi.\n"
+printf "  -c         Vytvoreni rozdiloveho archivu.\n"
+printf "  -p         Aplikace rozdiloveho archivu (argument archiv2) na zdrojovy archiv\n"
+printf "             (argument archiv1).\n"
+printf "  -r         Prepnuti do reverzniho rezimu (plati pro -p).\n"
+clean_files
+exit 1
+}
+
+# Funkcia make_archive vytvori archiv v adresaru.
+make_archive(){
+fileo1="$(echo "$fileo" | sed -r 's/.+\/(.+)/\1/g')"
+fileo1="$(echo "$fileo1" | sed -r 's/[^\.]+\.(.+)/\1/g')"
+
+if [ "$fileo1" = "zip" ] ; then zip -r $fileo $(ls) > /dev/null
+elif [ "$fileo1" = "tar.gz" ] ; then tar -czf $fileo $(ls)
+elif [ "$fileo1" = "tgz" ] ; then tar -czf $fileo $(ls)
+elif [ "$fileo1" = "tar" ] ; then tar -czf $fileo $(ls)
+elif [ "$fileo1" = "tar.bz2" ] ; then tar -cjf $fileo $(ls)
+else cd "$tmppwd" ; print_error ; fi
+}
+
+# Funkcia clean_files odstrani docasne subory. 
+clean_files(){ 
+for i in 1 2 3 4; do 
+rm -r ${tmp}${i} 2> /dev/null
+done
+}
+
+# Funkcia print_error vypise chybu, ukonci program.
+print_error(){ printf "$emsg" ; clean_files ; cd "$tmppwd" ; exit 1 ; }
+
+# Kontrola parametrov a spracovanie pomocou getopts.
+if [ "$3" = "" ] ; then print_help; fi
+while getopts ":lcprho:" param; do
+case "$param" in
+  o) fileo="$OPTARG" ; create="TRUE";;
+  l) list="TRUE";;
+  c) differ="TRUE"
+     prm="TRUE";;
+  p) apply="TRUE"
+     prm="TRUE";;
+  r) reverse="TRUE";;
+  *) print_help;;
+esac
+done
+
+# Odtestovanie existencie suborov, prepinacov, ...
+clean_files
+: $(( OPTIND-=1 )) 
+shift $OPTIND
+file1="$1" ; file2="$2"
+if [ "$#" != "2" ] ; then print_help; fi
+if [ ! -f "$1" ] || [ ! -f "$2" ] ; then print_error ; fi
+if [ "$reverse" = "TRUE" ] && [ "$apply" != "TRUE" ] ; then print_help ; fi
+if [ "$create" = "TRUE" ] ; then
+  if [ "$create" = "TRUE" ] && [ "$apply" = "TRUE" ] && [ "$differ" = "TRUE" ] ; then
+    print_help
+  fi
+fi
+# Odtestovanie prav pre uzivatela.
+if [ ! -r "$1" ] || [ ! -r "$2" ] ; then print_error ; fi
+if [ "$list" = "TRUE" ] && [ "$create" = "TRUE" ] ; then print_error ; fi
+if [ "$create" = "TRUE" ] && [ "$prm" != "TRUE" ] ; then print_error ; fi
+
+# Urcenie typu a rozbalenie suborov.
+for i in 1 2
+do
+  # Urcenie typu suboru.
+  a="$(eval echo $`echo $i`)"
+  b="$(eval file $`echo $i`)"
+  b="$(echo $b | sed -r 's/[^:]+:[ \t]+([A-Za-z0-9\.]+).+/\1/g')"
+  
+    # Rozbalenie zip, tar, tgz...
+  if [ "$b" = "Zip" ] ; then
+    mkdir ${tmp}${i}/ 
+    ziptextf=$(unzip -d ${tmp}${i}/ $a )"\n""$ziptextf"
+    ziptextf=$(printf "$ziptextf" | sed -r 's/.+ (\/.+\/)/\1/g' | tail -n +2)
+    ziptext=$(printf "$ziptextf" | cut -d "/" -f4- )
+  elif [ "$b" = "ZIP" ] ; then
+    ziptextf=$(unzip -d ${tmp}${i}/ $a )"\n""$ziptextf"
+    ziptextf=$(printf "$ziptextf" | sed -r 's/.+ (\/.+\/)/\1/g' | tail -n +2)
+    ziptext=$(printf "$ziptextf" | cut -d "/" -f4- )
+  elif [ "$b" = "gzip" ] ; then
+    mkdir ${tmp}${i}/
+    tar -xf $a -C ${tmp}${i}/
+    tartext=$(tar -tf $a -C ${tmp}${i}/ )"\n""$tartext"
+    tartextf=$(printf "$tartext" | sed -r "s/(.+)/\/tmp\/xlukac05f$i\/\1/g")
+  elif [ "$b" = "bzip2" ] ; then
+    mkdir ${tmp}${i}/
+    tar -xf $a -C ${tmp}${i}/
+    targztext=$(tar -tf $a -C ${tmp}${i}/)"\n""$targztext"
+    targztextf=$(printf "$targztext" | sed -r "s/(.+)/\/tmp\/xlukac05f$i\/\1/g")
+  elif [ "$b" = "POSIX" ] ; then
+    mkdir ${tmp}${i}/
+    tar -xf $a -C ${tmp}${i}/
+    tarpos=$(tar -tf $a -C ${tmp}${i}/)"\n""$tarpos"
+    tarposf=$(printf "$tarpos" | sed -r "s/(.+)/\/tmp\/xlukac05f$i\/\1/g")
+  else print_error ; fi
+done
+
+# Vyfiltrovanie unikatnych suborov
+archtext="$targztextf""\n""$tartextf""\n""$ziptextf""\n""$tarposf"
+diff0="$ziptext""\n""$tartext""\n""$targztext""\n""$tarpos"
+diff0="$(printf "$diff0" | sort | sed -r 's/(.+[^ ]) */\1/g' | sed -r 's/(.+)\/$//g' | uniq -u)"
+lines="$(printf "$diff0" | sort |rev | uniq -f 1 | rev | sed -r 's/(.+)\/$//g' | sort )"
+diff0="$(printf "${lines}${diff0}" | sed '/^$/d' )" 
+diff1=$(diff -aurN ${tmp}1/ ${tmp}2/ | grep "diff -aurN")
+diff2=$(printf "$diff1" | sed -r 's/.+ \///g' | cut -f3- -d "/" )
+different="$diff2""\n""$diff0"
+
+# Vypisanie zoznamu.
+if [ "$list" = "TRUE" ] ; then
+  if [ "$diff2" != "" ] ; then printf "$diff2\n" ; fi
+  if [ "$diff0" != "" ] ; then printf "$diff0\n" ; fi
+fi
+
+# Vytvorenie podzlozky s patch.
+if [ "$differ" = "TRUE" ] ; then
+  mkdir -p ${tmp}4/
+  touch ${tmp}4/xlkf5m
+  # Prejdenie suborov a zloziek a vytvorenie.
+  for a in $(printf "$different") ; do
+    a=$(echo "$a" | sed -r 's/^(\.\/)//g') 
+    if [ -f "${tmp}1/$a" ] || [ -f "${tmp}2/$a" ] ; then
+      dir=$(echo "$a" | grep "/" | sed -r 's/(.+\/).+/\1/g')
+      fil=$(echo "$a" | sed -r 's/.+\/(.+)/\1/g')
+      dir1=$(echo "$a" | sed -r 's/\//\\\//g')
+      mkdir -p ${tmp}3/"$dir"
+      # Ak existuje oba subory.
+      if [ -f "${tmp}1/$a" ] && [ -f "${tmp}2/$a" ] ; then
+        text=$(diff -u "${tmp}1/${dir}${fil}" "${tmp}2/${dir}${fil}")
+        echo "$text" | sed "s/\/tmp\/xlukac05f1/a/g" | sed "s/\/tmp\/xlukac05f2/b/g" > "${tmp}3/$a.patch"
+      # Ak existuje prvy subor.
+      elif [ -f "${tmp}1/$a" ] ; then
+        text=$(diff -u "${tmp}1/${dir}${fil}" "${tmp}4/xlkf5m")
+        text=$(echo "$text" | sed "s/\/tmp\/xlukac05f1/a/g" | sed "s/\/tmp\/xlukac05f4/b/g")
+        text=$(echo "$text" | sed -r 's/xlkf5m	(.+)/xlkf5m	1970\-01\-01 01\:00\:00\.000000000 \+0100/g')
+        echo "$text" | sed -r "s/xlkf5m/$dir1/g" > "${tmp}3/$a.patch"
+      # Ak existuje druhy subor.
+      elif [ -f "${tmp}2/$a" ] ; then
+        text=$(diff -u "${tmp}4/xlkf5m" "${tmp}2/${dir}${fil}")
+        text=$(echo "$text" | sed -r "s/\/tmp\/xlukac05f4/a/g" | sed "s/\/tmp\/xlukac05f2/b/g")
+        text=$(echo "$text" | sed -r 's/xlkf5m	(.+)/xlkf5m	1970\-01\-01 01\:00\:00\.000000000 \+0100/g')
+        echo "$text" | sed -r "s/xlkf5m/$dir1/g" > "${tmp}3/$a.patch"
+      fi
+    fi
+  done
+  # Test na existenciu suborov.
+  if [ "$(ls ${tmp}3 )" = "" ] ; then 
+    echo "V archive niesu ziadne subory." ; exit 1 ; fi
+
+  # Vytvorenie archivu
+  cd ${tmp}3/
+  make_archive
+  cp "$fileo" "$tmppwd"
+  cd "$tmppwd"
+fi
+
+# Aplikovanie patch.
+if [ "$apply" = "TRUE" ] ; then
+  apply1=$(printf "$archtext" | grep "${tmp}1" | sed 's/\/xlukac05f1\//\/xlukac05f2\//g')
+  apply2=$(printf "$archtext" | grep "${tmp}2")
+  dirs=$(printf "$apply1" | sed 's/xlukac05f1/xlukac05f2/g' | sed -r 's/(\/.+\/).+/\1/g')
+
+  # Vytvorenie priecinkov v patch directory. 
+  for c in $(printf "$dirs") ; do 
+  if [ ! -d "$c" ] ; then
+    mkdir -p "$c"
+  fi
+  done
+
+  # Skopirovanie suborov do patch directory.
+  cd "${tmp}1/"
+  cp -L -r * "${tmp}2/"   >/dev/null 2>/dev/null
+  cd "${tmp}2/"
+
+  # Patchnutie suborov.
+  for c in $(printf "$apply2") ; do
+    a=$(echo "$c" | sed -r 's/(\/.+\/).+/\1/g')
+    cd "$a"
+    if [ "$reverse" != "TRUE" ] ; then patch -N -s -i "$c" >/dev/null 2>/dev/null
+    else 
+      patch -N -R -s -i "$c" >/dev/null 2>/dev/null 
+    fi
+  done
+ 
+  # Zmazanie suboru.
+  for c in $(printf "$apply2") ; do
+    if [ -f "$c" ] ; then
+      rm "$c"  >/dev/null 2>/dev/null
+    fi
+    c=$(echo "$c" | sed 's/.patch//g')
+    rm $c.rej  >/dev/null 2>/dev/null
+    rm $c.orig >/dev/null 2>/dev/null
+  done
+
+  # Vytvorenie archivu
+  cd "${tmp}2"
+  make_archive
+  cp "$fileo" "$tmppwd"
+  cd "$tmppwd"
+fi
+
+clean_files
+exit 0

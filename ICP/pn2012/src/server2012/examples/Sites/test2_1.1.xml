@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Petriho_site count="25">
+ <Transition operation="y_=_x" condition="x_&lt;_4" X="-96" Y="41" name="trans11"/>
+ <Transition operation="y_=_x" condition="x_&lt;_4" X="244" Y="45" name="trans9"/>
+ <Place X="161" Y="-6" tokens="" name="p8"/>
+ <Place X="-21" Y="-1" tokens="" name="p7"/>
+ <Transition operation="y_=_x" condition="x_&lt;_4" X="255" Y="250" name="trans6"/>
+ <Place X="290" Y="152" tokens="" name="p5"/>
+ <Place X="192" Y="313" tokens="" name="p4"/>
+ <Transition operation="y_=_x" condition="x_&lt;_4" X="81" Y="323" name="trans3"/>
+ <Place X="-12" Y="321" tokens="" name="p2"/>
+ <Transition operation="y_=_x" condition="x_&lt;_4" X="-92" Y="259" name="trans1"/>
+ <Place X="-130" Y="148" tokens="2" name="p0"/>
+ <Arc direction="1" endtransition="trans1" endplace="p0" label="x" uniqname="Arc23"/>
+ <Arc direction="0" endtransition="trans1" endplace="p2" label="y" uniqname="Arc22"/>
+ <Arc direction="1" endtransition="trans3" endplace="p2" label="x" uniqname="Arc21"/>
+ <Arc direction="0" endtransition="trans3" endplace="p4" label="y" uniqname="Arc20"/>
+ <Arc direction="1" endtransition="trans6" endplace="p4" label="x" uniqname="Arc19"/>
+ <Arc direction="0" endtransition="trans6" endplace="p5" label="y" uniqname="Arc18"/>
+ <Arc direction="1" endtransition="trans9" endplace="p5" label="x" uniqname="Arc17"/>
+ <Arc direction="0" endtransition="trans9" endplace="p8" label="y" uniqname="Arc16"/>
+ <Arc direction="1" endtransition="trans11" endplace="p7" label="x" uniqname="Arc13"/>
+ <Arc direction="0" endtransition="trans11" endplace="p0" label="y" uniqname="Arc12"/>
+</Petriho_site>

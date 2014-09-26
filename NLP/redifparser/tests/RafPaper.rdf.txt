@@ -1,0 +1,233 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Mwangi, E.
+Author-Name: Swallow, B. 
+Title: Invasion of prosopis juliflora and local livelihoods: case study from the Lake Baringo area of Kenya
+Creation-Date:  2005
+File-URL: http://www.worldagroforestry.org/downloads/publications/PDFs/wp03mwangi.pdf
+File-Format: Application/pdf
+File-Function: First version, 2005
+Handle: RePEc:raf:wpaper:B13657
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Kimaru, G.
+Author-Name:  Jama, B.
+Title:  Improving land management in eastern and southern Africa: a review of practices and policies.
+Creation-Date:  2006
+File-URL: http://www.worldagroforestry.org/downloads/publications/PDFs/wp0611301.pdf
+File-Format: Application/pdf
+File-Function: First version, 2006
+Handle: RePEc:raf:wpaper:2006113
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Budidarsono, S
+Author-Name:   Wijaya, K.
+Author-Name:    Roshetko, J
+Title:  Farm and household economic study of Kecamatan Nanggung, Kabupaten Bogor, Indonesia: a socio-economic base line study of agroforestry innovations and livelihood enhancement
+Creation-Date:  2006
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/wp14251.pdf
+File-Format: Application/pdf
+File-Function: First version, 2006
+Handle: RePEc:raf:wpaper:B14251
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Jindal, R.
+Author-Name:   Swallow, B.
+Author-Name:   Kerr, J.
+Title:  Status of carbon sequestration projects in Africa: potential benefits and challenges to scaling up
+Creation-Date:  2006
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14441.PDF
+File-Format: Application/pdf
+File-Function: First version, 2006
+Handle: RePEc:raf:wpaper:B14441
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Iftikhar, U.A.
+Author-Name:   Kallesoe, M.
+Author-Name:   Duraiappah, A.
+Author-Name:  Sriskanthan, G.
+Author-Name:   Poats, S.V.
+Author-Name:    Swallow, B.
+Title:   Exploring the inter-linkages among and between compensation and rewards for ecosystem services (CRES) and human well-being
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14956.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14956
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Bracer, C.
+Author-Name:   Scherr, S.
+Author-Name:   Molnar, A.
+Author-Name:  Madhushree, S.
+Author-Name:  Ochieng, B.O
+Author-Name:     Sriskanthan, G
+Title:  Organization and governance for fostering pro-poor compensation for environmental services
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14961.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14961
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Milder, J.C.
+Author-Name:   Scherr, S.
+Author-Name:   Bracer, C.
+Title:  How important will different types of compensation and reward mechanisms be in shaping poverty and ecosystem services across Africa, Asia and Latin America over the next two decades
+Creation-Date:  2007
+
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14960.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14960.
+ 
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Swallow, B.
+Author-Name:   Yatich, T.
+Author-Name:   Puttaswamaiah, S. 
+
+Title:  The conditions for effective mechanisms of compensation and rewards for environmental services
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14958.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14958
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Poats, S.V.
+Title:  Report on the Latin American regional workshop on compensation for environmental services and poverty alleviation in Latin America, April 26- 28, 2006, Quito, Ecuador
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14962.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14962.
+
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:Noordwijk, M. van
+Author-Name:Leimona, B.
+Author-Name:Emerton, L.
+Author-Name:Tomich, T.P.
+Author-Name:Velarde, S.J.
+Author-Name:Kallesoe, M.
+Author-Name:Sekher, M
+Author-Name: Swallow, B.
+Title:  Criteria and indicators for environmental service compensation and reward mechanisms: realistic, voluntary, conditional and pro-poor.
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14964.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14964
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Raju, K.V.
+Author-Name:Puttaswamaiah, S.
+Author-Name: Madhushree, S.
+Author-Name:Rumley, R.
+
+Title:Asia regional workshop on compensation for ecosystem services: a component of the global scoping study on compensation of ecosystem service.
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14957.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14957
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:Swallow, B.
+Author-Name:Kallesoe, M.
+Author-Name: Iftikhar, U.
+Author-Name: Noordwijk, M. van
+Author-Name:  Bracer, C.
+Author-Name: Scherr, S.
+Author-Name:Raju, K.V.
+Author-Name: Poats, S.
+Author-Name:  Ochieng, B.
+Author-Name:  Mallee, H.
+Author-Name:  Rumley, R.
+
+Title: Compensation and rewards for environmental services in the developing world framing pan-tropical analysis and comparison
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14963.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14963
+
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:Ochieng, B.
+Author-Name: Otiende, B.
+Author-Name:Rumley, R.
+
+Title:  African regional workshop on compensation for ecosystem services 22-24 May 2006
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP14959.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B14959
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:Villamor, G.B.
+Author-Name: Noordwijk, M. van
+Author-Name:Agra, F.
+Author-Name:Catacutan, D.
+
+Title:  Buyers perspectives on Environmental Services (ES) and commoditization as an approach to liberate ES markets in the Philippines
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP07139.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:2007139
+
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:Budidarsono, S.
+Author-Name:Wulan, Y.C.
+Author-Name:Budi
+Author-Name:Joshi, L.
+Author-Name:Hendratno, S.
+
+Title: Livelihoods and forest resources in Aceh and Nias for sustainable forest resource management and economic progress: report of the project identification study.
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP15380.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B15380
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:Tomomatsu, Y.
+Author-Name:Swallow, B.
+Title: Jatropha curcas biodiesel production in Kenya: economics and potential value chain development for smallholder farmers.
+Creation-Date:  2007
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/WP15396.PDF
+File-Format: Application/pdf
+File-Function: First version, 2007
+Handle: RePEc:raf:wpaper:B15396
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Arifin, B.
+Author-Name:Swallow, B.
+Author-Name: Suyanto
+Author-Name: Coe, R.
+Title: A conjoint analysis of farmer preferences for community forestry contracts in the Sumber Jaya watershed, Indonesia.
+Creation-Date:  2008
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/wp15527.pdf
+File-Format: Application/pdf
+File-Function: First version, 2008
+Handle: RePEc:raf:wpaper:B15527
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Sang, J.
+Author-Name:Swallow, B.
+Author-Name: Nyabenge, M.
+Author-Name: Bondotich, D.
+Author-Name: Yatich, T.
+Author-Name:  Duraiappah, A.
+Author-Name:  Yashiro, M.
+Title:  Tradeoffs among ecosystem services in the Lake Victoria Basin
+Creation-Date:  2008
+File-URL:http://www.worldagroforestry.org/downloads/publications/PDFs/wp15658.pdf
+File-Format: Application/pdf
+File-Function: First version, 2008
+Handle: RePEc:raf:wpaper:B15658
+
+

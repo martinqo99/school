@@ -1,0 +1,3 @@
+bonus:
+http://stackoverflow.com/questions/11593323/understanding-cormen-post-office-location-solution
+http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap10.htm

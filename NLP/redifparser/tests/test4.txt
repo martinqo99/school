@@ -1,0 +1,11 @@
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:236
+Title: Working Paper 100 - Financial Sector Policy Reforms in the Post-Financial Crisis Era: Africa Focus
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20100%20Internet%20PDF.pdf
+File-Size: 10569
+File-Format: application/pdf
+Creation-Date: 2010-01-11
+

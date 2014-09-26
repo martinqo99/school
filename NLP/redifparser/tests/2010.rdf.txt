@@ -1,0 +1,493 @@
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:235
+Title: Working Paper 99 - Capital Flows and Capital Account Liberalisation in the Post-Financial-Crisis Era: Challenges, Opportunities and Policy Responses
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%2099%20Internet%20PDF.pdf
+File-Size: 6313
+File-Format: application/pdf
+Creation-Date: 2010-01-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:236
+Title: Working Paper 100 - Financial Sector Policy Reforms in the Post-Financial Crisis Era: Africa Focus
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20100%20Internet%20PDF.pdf
+File-Size: 10569
+File-Format: application/pdf
+Creation-Date: 2010-01-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:237
+Title: Working Paper 101 - The Global Financial Crisis and Domestic Resource Mobilization in Africa
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20101%20Internet%20PDF.pdf
+File-Size: 6289
+File-Format: application/pdf
+Creation-Date: 2010-01-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:238
+Title: Working Paper 102 - Seizing the Day? the Global Economic Crisis and African Manufacturing
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20102%20Internet%20PDF.pdf
+File-Size: 4690
+File-Format: application/pdf
+Creation-Date: 2010-01-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:239
+Title: Working Paper 103 - Accounting for Vulnerability of African Countries in Performance Based Aid Allocation
+Abstract: The African Development Bank allocates its concessional resources through a procedure which is mainly based on the quality of the eneficiary countries’ economic policy and governance. This allocation procedure relies mainly on the Performance-Based Allocation formula which can be criticized on two grounds.
+Firstly, the weight on economic policy and governance is viewed as being excessive.
+Secondly, it lacks transparency and consistency. We consider how to amend that formula so as to take into account certain common characteristics of many African countries. The main
+proposal is to augment the formula by an economic vulnerability criterion. The numerical
+simulations show that the introduction of the United Nations economic vulnerability index in
+the formula gives rise to allocations which not only account for post conflict situations but
+also inherent fragility. We also consider a lower population weight in order to address the problem of country size. This change helps avoid inconsistencies arising from the application of country allocation ceilings in the various stages of the computation. Finally, a few proposals concerning the African Development Fund’s support to regional integration are explored.
+Language: en
+Author-Name: Guillaumont Patrick
+Author-Workplace-Name: Centre d’Etudes et de Recherches sur le Développement International (CERDI), CNRS, and Université d’Auvergne (Clermont-Ferrand, France)
+Author-Workplace-Homepage: www.cerdi.org
+Author-Name: Guillaumont-Jeanneney Sylviane
+Author-Workplace-Name: Centre d’Etudes et de Recherches sur le Développement International (CERDI), CNRS, and Université d’Auvergne (Clermont-Ferrand, France)
+Author-Workplace-Homepage: www.cerdi.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20103_%2022%20%20January%202009.pdf
+File-Size: 449
+File-Format: application/pdf
+Creation-Date: 2010-01-22
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:241
+Title: Working Paper 104 - Technology Gap and Efficiency in Cocoa Production in West and Central Africa: Implications for Cocoa Sector Development
+Language: en
+Author-Name: Nkamleu Guy Blaise
+Author-Workplace-Name: International Institute of tropical Agriculture
+Author-Workplace-Homepage: www.iita.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20104%20%20PDF%20d.pdf
+File-Size: 369
+File-Format: application/pdf
+Creation-Date: 2010-01-23
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:242
+Title: Working Paper 105 - Smallholder Agriculture in East Africa: Trends, Constraints and Opportunities
+Abstract: Smallholder agriculture continues to play a key role in African agriculture. This paper investigates trends, challenges and opportunities of this sub-sector in East Africa through case studies of Kenya, Ethiopia, Uganda and Tanzania. In these agriculture-based economies, smallholder farming accounts for about 75 percent of agricultural production and over 75 percent of employment. However, contributions of smallholder farming, and agriculture in general, to the region’s recent rapid growth during 2005 - 08 have remained limited. Instead, growth was driven by services, in particular trade. This paper finds that at the national level, weak institutions, restricted access to markets and credit. These factors, including inadequate infrastructure, have constrained productivity growth of smallholder farming. Measures needed to improve productivity of smallholder farmers include ease of access to land, training to enhance skills and encourage technology adoption and innovation, and removal of obstacles to trade. At the regional and global levels, international trade barriers need to be addressed.
+Language: en
+Author-Name: Salami, Adeleke Oluwole
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: a.salami@afdb.org
+Author-Name: Abdul Kamara
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: a.b.kamara@afdb.org
+Author-Name: Zuzana Brixiova
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20105%20%20PDF%20d.pdf
+File-Size: 635
+File-Format: application/pdf
+Creation-Date: 2010-05-05
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:243
+Title: Working Paper 106 - Does Human Capital Protect Workers against Exogenous Shocks? South Africa in the 2008 – 2009 Crisis
+Abstract: The financial and economic crisis of 2008 and 2009 has taken its toll on the South African economy. The economy contracted for the first time since 1998, and entered recession during the fourth quarter of 2008. 
+The GDP contraction was soon transmitted to the labor market. Between the second quarters of 2008 and 2009, employment fell by 3.8 percent. However, not all individuals were hit with the same intensity. Using labor force survey data unique in the African context, we find that human capital provided a buffer against the shock. After controlling for observable characteristics, education and experience showed the potential to entirely offset the effect of the recession on the likelihood of employment. This has important policy implications, as it strengthens the case for strategic investments in human capital, and helps identifying the unskilled as those with the highest need for social safety net interventions during the recession.
+Language: en
+Author-Name: Ron Leung
+Author-Email: r.leung@afdb.org
+Author-Name: Stampini Marco
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Name: Desire Vencatachellum
+Author-Email: d.vencatachellum@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20106%20%20PDF%20d.pdf
+File-Size: 396
+File-Format: application/pdf
+Creation-Date: 2010-05-06
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:244
+Title: Working Paper 107 - China, Africa and the International Aid Architecture
+Abstract: This paper analyses China’s growing foreign aid and export credit programme as an 
+element of the changing international aid architecture. The paper finds that practices 
+governing Chinese aid and development finance diverge from clear OECD standards and norms on transparency and definitions, the management of concessional export credits, and the management of sovereign debt. In the area of environmental and social protections, corruption, and governance, the paper finds mixed results. Chinese norms on 
+environmental and social safeguards are evolving rapidly. There is some evidence that 
+the framework for development loans has begun to take these higher standards into 
+account. Regarding governance, both China and the traditional sources of development 
+finance have rules that discourage corruption in the procurement of aid, but export credits are less well policed. Neither seem to have rules for when or how aid should be restricted when a pattern of corruption characterises an entire recipient government. The global aid regime is not well-institutionalised regarding democracy and human rights. Neither the IMF, the World Bank nor the Chinese apply conditionality in this area. Many bilateral donors do apply such conditions, but relatively inconsistently. Many still lack clear and firm standards. In sum, Chinese practice is not as different in this arena as often believed.
+Language: en
+Author-Name: Deborah Bräutigam
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20107%20%20PDF%20E33.pdf
+File-Size: 533
+File-Format: application/pdf
+Creation-Date: 2010-05-07
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:245
+Title: Working Paper 108 - Is there a case for formal inflation targeting in sub-Saharan Africa?
+Abstract: This paper examines the question of whether inflation targeting monetary policy is an appropriate framework for sub-Saharan African countries. The paper presents an overview of inflation targeting, reviews the justification for the regime, and summarizes some major critiques. Monetary policy responses to inflation depend on the source of inflationary pressures. Therefore, the determinants of inflation in African countries are investigated, using dynamic panel data, and the implications for inflation targeting are discussed. These issues are examined in greater detail for the two African countries which have formally adopted inflation targeting, South Africa and Ghana. The analysis is placed in the context of the global 
+economic crisis. The paper concludes with a discussion of alternative approaches to monetary policies and the institutional constraints that would need to be addressed to allow central banks to play a stronger developmental role in sub-Saharan African countries.
+Language: en
+Author-Name: James Heintz
+Author-Email: jheintz@peri.umass.edu
+Author-Name: Leonce Ndikumana
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20108%20%20PDF%20d.pdf
+File-Size: 517
+File-Format: application/pdf
+Creation-Date: 2010-05-08
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:246
+Title: Working Paper 109 - The First Africa Region Review for EAC/COMESA
+Abstract: The main objective of this paper is  to present a mapping of trade-related bottlenecks in the EAC/COMESA region  to eligible aid-for-trade (AFT) categories, and to articulate a strategy for mobilising significant amounts of aid for trade. To do so, the paper reviews the constraints to trade in EAC/COMESA. 
+It identifies existing AFT-related programmes and activities, and documents the status of their implementation, pointing out any gaps and the causes thereof.  
+The paper is based on the premise that the EAC/COMESA region faces unique and severe constraints to trade related to the fact that many of the member states are land-locked. This, combined with poor infrastructure and services, cumbersome border procedures, inadequate mainstreaming of trade in national development strategies, and lack of progress in deepening economic integration, explains the region’s dismal trade  performance, both intra-regionally and externally. AEC/COMESA is aware of these constraints. The region has 
+launched various initiatives to tackle them. The majority of these initiatives relate to trade facilitation measures.  
+The North-South Corridor is one trade-related infrastructure project that has attracted attention in the region, both by virtue of its scale and purported benefits. 
+Even though the implementation of the project was slow initially, the political impetus during the North-South Corridor High Level meeting in Lusaka, Zambia in April 2009 attracted financing in the region of US$1.2 billion. As the first pilot in East Africa, the North-South Corridor clearly shows that Aid for trade can play a key role in sustaining ongoing efforts to overcome bottlenecks to trade.  
+The key message is that an effective AFT strategy should focus primarily on trade facilitation, with some emphasis on trade-related infrastructure. Since substantial aid has traditionally been  directed to technical assistance and capacity building, and the trend is likely to continue, there is no need to build this element into the strategy  per se. Such a strategy must: (a) Emphasise the contribution of trade facilitation measures in reducing trade costs and enhancing export competitiveness; (b) demonstrate the added benefits of modern traderelated infrastructure; (c) demonstrate  the political will  by the EAC/COMESA 
+member states to address the region’s constraints in the spirit of cooperation and solidarity to landlocked neighbours; and (d) impress on the donor community the need for greater AFT resources to help the region participate fully in global trade and attain the MDGs.  
+The Aid for Trade agenda should also highlight the importance of monitoring to show its impact on trade and development. In this case, the EAC/COMESA region should maintain a database of Aid for Trade for monitoring and evaluation purposes.
+Language: en
+Author-Name: Ancharaz, Vinaye Dey
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: V.ANCHARAZ@AFDB.ORG
+Author-Name: Tonia Kandiero
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: T.KANDIERO@AFDB.ORG
+Author-Name: Mlambo, Kupukile
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: k.mlambo@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20109%20%20PDF%20d%2022.pdf
+File-Size: 518
+File-Format: application/pdf
+Creation-Date: 2010-05-14
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:247
+Title: Working Paper 110 - Education and Employment in Malawi
+Abstract: This paper analyzes the relationship between education and employment in Malawi, using 
+data from the 2004-05 Integrated Household Survey (IHS-2). For both men and women, 
+education is the passport to formal employment and leads to higher hourly earnings. Within regular wage employment, secondary education is associated with a 123 percent wage premium, and university education with a 234 percent wage premium (relative to illiteracy). In both rural and urban areas, income is positively correlated with specialization in regular wage employment. 
+For example, in urban areas 60 percent of the households who derive at least 75 percent of 
+their income from regular wage employment belong to the highest quartile of the income 
+distribution. This reflects the relative scarcity of human capital. Among prime age males (25 to 39 years old), only 10 percent have completed secondary education. For women in the same age group, the situation is even worse, with the rate of completion of secondary schooling as low as 3 percent. 
+The analysis of school enrolment highlights that teenage women experience high dropout rates, which prevent greater female enrollment in higher education, and therefore constrain future participation in the best forms of employment.
+Language: en
+Author-Name: Castel, Vincent
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: v.castel@afdb.org
+Author-Name: Martha Phiri
+Author-Email: m.phiri@afdb.org
+Author-Name: Stampini Marco
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20110%20PDF%20d%2022.pdf
+File-Size: 2271
+File-Format: application/pdf
+Creation-Date: 2010-06-02
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:248
+Title: Working Paper 111 - Assessing Absolute and Relative Pro-Poor Growth: An Application to the MENA Region
+Abstract: This paper proposes a multidimensional test for a partial ordering over absolute and relative pro-poor judgements. It also investigates whether poverty comparisons can be made over classes of indices that incorporate both absolute and relative poverty standards. Besides being robust to whether pro-poor judgements should be absolute or relative, the partial ordering is also robust to choosing over a class of weights to aggregate the impact of growth 
+on the poor, as well as over ranges of absolute and relative poverty lines. The test is applied to recent distributional changes in nine Middle-Eastern and North-African (MENA) countries that have witnessed different impacts of growth in the last two decades.
+Language: en
+Author-Name: Sami Bibi
+Author-Name: Jean-Yves Duclos
+Author-Name: Chouchane, Audrey
+Author-Email: a.chouchane@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20111%20PDF%20d%2022.pdf
+File-Size: 762
+File-Format: application/pdf
+Creation-Date: 2010-07-29
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:249
+Title: Travaux de recherches 112 - Analyse de la pauvreté en République Démocratique du Congo
+Abstract: La présente étude sur la pauvreté en République démocratique du Congo se propose d’analyser la répartition spatiale de la pauvreté afin de pouvoir identifier les provinces qui sont les plus affectées ainsi que le degré de cette disparité. La source principale des données utilisées dans cette étude est l’enquête de type1-2-3 de l’année 2004-2005, en particulier la phase 3 (l’enquête consommation des ménages).  
+Les résultats obtenus montrent l’ampleur du phénomène de la pauvreté dans ce pays. 
+Ainsi le taux de pauvreté au niveau national avoisine 70% de l’ensemble des ménages. La répartition spatiale de ce phénomène montre que le milieu rural enregistre un taux de pauvreté de 72% contre 59% pour le milieu urbain. Tandis que la répartition par provinces montre une disparité entre elles, avec des taux qui avoisinent les 90% pour les provinces de Bandundu et de l’Equateur contre un taux de 50% pour d’autres provinces à l’instar du Kasaï et la capitale Kinshasa. 
+La mesure  de la pauvreté par rapport aux caractéristiques démographiques et socioprofessionnelles du chef du ménage montre que ce phénomène est accentué particulièrement parmi les ménages de larges tailles. Quant au facteur du genre, les résultats attestent que les ménages conduits par les femmes sont affectés par ce phénomène au même titre que ceux conduits par des hommes. Il ressort que la  pauvreté est minimisée par le niveau d’instruction  du chef de ménage ainsi que par sa catégorie socio-économique. L’analyse de la pauvreté par rapport aux niveaux d’instructions du chef de ménage confirme l’importance de l’éducation dans l’atténuation de ce phénomène. D’autre part la pauvreté affecte l’ensemble des catégories socio-économique des ménages, en particulier les travailleurs ordinaires, les cadres de direction et les travailleurs à leurs propres comptes.
+Language: fr
+Author-Name: Ahmed Moummi
+Author-Email: a.moummi@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20112%20word%20document%20French%20ver%20.pdf
+File-Size: 292
+File-Format: application/pdf
+Creation-Date: 2010-08-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:250
+Title: Working Paper 113 - Monetary Policy Conduct Based on Nonlinear Taylor Rule: Evidence from South Africa
+Abstract: This paper analyses the applicability of a nonlinear Taylor rule in characterizing the monetary policy behavior of the South African Reserve Bank, using a logistic smooth transition regression approach. 
+Using quarterly data from 1976 to 2008 to analyze the movement of the nominal short term interest rate for the South African Reserve Bank, we find that a nonlinear Taylor rule holds. On the contrary, some studies find that the South African Reserve Bank behavior can be described by a linear Taylor rule, but only because these studies 
+removed the structural break which coincided with the Asian crises and estimated two different Taylor rules. Our study does not remove the structural break as it is an anomaly path, thus it uses the entire sampling period. Our results go counter to the above mentioned findings. In fact, our results are consistent with the international findings on the European Central Bank and the Bank of England that the nonlinear Taylor rule holds.
+Language: en
+Author-Name: Ncube, Mthuli
+Author-Email: m.ncube@afdb.org
+Author-Name: Mthokozisi M. Tshuma
+Author-Email: Mthokozisi.tshuma@wits.ac.za
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20PAPER%20113%20AAS.pdf
+File-Size: 645
+File-Format: application/pdf
+Creation-Date: 2010-08-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:251
+Title: Working Paper 114 - Additionality of Development Finance Institutions (DFIs) in Upstream Oil and Gas in Africa
+Abstract: The landscape of oil and gas production in Africa is changing in ways that will increase the demand for upstream development finance and pull on funds from all sources, including development finance institutions (DFIs). A new cohort of countries is coming onstream for the first time, and new players from among the group of indigenous and independent oil and gas firms are carving out strategic niches in the sector around the continent.  
+Commercial banks are strongly present and maintained interest in financing upstream 
+development through the financial crisis. However, the funding needs of the sector are massive and growing. At the same time, for some countries, the sector holds the potential of significant development gains. Joining the club of oil and gas producers can generate a new stream of revenues that, if well managed, can lead to improvements in national welfare, growth and development. 
+DFIs face the challenge of engaging in the sector in a way that is both relevant financially and solidly aligned with the successful realization of development gains among countries on the continent. This paper argues that DFIs should be strategically targeting and selecting positions in transactions where experience indicates they can add value. It takes the position that it is possible to differentiate between opportunities within the development phase of the upstream oil and gas sector in Africa and extract some general criteria to be applied in deal selection and project design. 
+Core recommendations for DFIs, stemming from the paper, include pursuing transactions linked either to emerging, producer nations or indigenous or independent firms and focusing on improving development outcomes linked to governance and extractive industry transparency, social and environmental standards and benchmarks and local content.
+Language: en
+Author-Name: Charles Wetherill
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: c.wetherill@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20PAPER%20114%20A.pdf
+File-Size: 685
+File-Format: application/pdf
+Creation-Date: 2010-11-02
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:252
+Title: Working Paper 116 - Unlocking Productive Entrepreneurship in Ethiopia: Which Incentives Matter
+Abstract: Twenty years after the launch of market reforms, productive entrepreneurship and vibrant small and medium-sized enterprises (SMEs) in Ethiopia remain limited, the recent growth acceleration notwithstanding. This paper first develops a model of entrepreneurial start ups in an economy with frictions in the product and labor markets and a large informal sector, which characterize the Ethiopian institutional landscape. It then examines several mitigating policies that could improve the suboptimal outcomes. The main findings are that search subsidies would be more effective in encouraging entrepreneurial start ups than wage subsidies, although fewer entrepreneurs may choose to operate in the formal sector than under the latter. 
+Regarding the reform agenda, priority should be put on removing rigidities and establishing property rights. To be effective, both types of subsidies should have a time limit and be phased out with reforms of the business environment, strengthened property rights, and improved labor markets.
+Language: en
+Author-Name: Zuzana Brixiova
+Author-Name: Emerta Asaminew
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20PAPER%20116%20.pdf
+File-Size: 667
+File-Format: application/pdf
+Creation-Date: 2010-11-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:253
+Title: Working Paper 115 - Analyzing Pro-Poor Growth in Southern Africa:Lessons from Mauritius and South Africa
+Abstract: Based on the methodology of Ravallion and Chen (2003), Kakwani and Pernia (2000) and Kakwani, Khandker and Son (2003) and using household survey data, we analyze poverty, inequality and pro-poor changes in South Africa over the period 1995-2005 and in Mauritius over the period 2001-2006. Conditions are very different in these two countries. South Africa is one of the least equal countries in the developing world while inequality in Mauritius is relatively low in comparison to other African countries. Similarly, using a reference threshold of USD 3 a day, we find that poverty headcount was initially around 42% in South Africa and 6% in Mauritius. Moreover, in addition to these initial differences, the two countries have experienced very different pro-poor growth paths. Temporal differences reveal that inequalities have increased significantly in South Africa over the period and that the poverty headcount in 2005 would have been around 10 percentage points lower without this strong adverse redistribution effect. South African growth has been antipoor relatively speaking. Conversely, growth was absolutely pro-poor in Mauritius over the period 2001-2006. 
+Deeper analysis is conducted across areas of residence (urban and rural) and according to educational achievements (some schooling versus no schooling) and gender. A comparison between Mauritius and South Africa allows for a better understanding of both growth and redistribution effects on poverty and for 
+drawing some policy recommendations towards reducing poverty in these countries.
+Language: en
+Author-Name: Chouchane, Audrey
+Author-Email: a.chouchane@afdb.org
+Author-Name: Jean-Yves Duclos
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%20PAPER%20115%20.pdf
+File-Size: 648
+File-Format: application/pdf
+Creation-Date: 2010-11-11
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:254
+Title: Working Paper 117 - Supporting Africa's Post-Crisis Growth: The Role of Macroeconomic Policies
+Abstract: The objective of this paper is to discuss macroeconomic policies that would help African countries, especially the low income countries (LICs), reach strong, sustained and shared growth in the postcrisis world. The paper first reviews, with a special focus on LICs, macroeconomic policies in Africa prior to the crisis. It then discusses factors behind ‘the Africa surprise’ that is the continent’s overall good performance during the crisis and relatively fast recovery. It underscores that in the aftermath of the crisis, the emphasis of the macroeconomic policy needs to shift from the objective of very low inflation that predominated prior to the crisis towards growth. Fiscal policy is key in this regard, through public outlays on infrastructure anchored in the medium term expenditure frameworks that would also have a counter-cyclical role. Where conditions allow, frontier market LICs may want to consider adopting flexible inflation targeting frameworks that would provide sufficient room for expansion of credit to the private sector.
+Language: en
+Author-Name: Leonce Ndikumana
+Author-Name: Zuzana Brixiova
+Author-Name: Abderrahim, Kaouther
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: k.abderrahim@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/WORKING%20117%20word%20document_ASS_.pdf
+File-Size: 777
+File-Format: application/pdf
+Creation-Date: 2010-11-13
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:255
+Title: Working Paper 118 - Assessment of the Trade Finance Market in Africa Post-Crisis
+Abstract: The financial crisis, which began to hit the trade finance markets in 2008, caused a sharp slow-down in trade in 2008 and 2009. The tightening of global credit reduced capital inflows and curtailed the availability of trade finance. This sudden shortage of trade finance negatively impacted African economies. In response, the African development Bank (AfDB) established, on March 2009, a multiphase USD 1 billion Trade Finance Initiative (TFI).
+As part of the Trade Finance Initiative, AfDB commissioned a trade finance survey conducted three times between 2009 and 2010.  The financial institutions contacted during these market surveys are listed at the end of this document. 
+During this research, banks in Senegal, Burkina Faso, Ghana, Nigeria, Egypt, Morocco, Kenya, South Africa, Tanzania and Rwanda were contacted.  In addition, financial institutions active in the international and regional trade finance markets based in the USA, UK, France, Germany and the Netherlands were contacted.  Finally, development finance institutions active in supporting trade both within Africa and without were 
+interviewed. Generally trade operations officers, international  department 
+management, treasury officers or senior commercial bankers were contacted.  
+Participants were asked to:
+• Describe their trade finance related activities
+• Describe the state of the market for trade finance products
+• Describe how availability  of facilities has changed
+•Describe how terms and conditions of facilities have changed
+•Discuss overall economic activity in their markets
+• Discuss potential roles for AfDB to play to facilitate access to trade finance 
+The overall conclusions of these surveys are:
+• African trade grew rapidly during the pre-crisis period, spurred by growing south-south trade and the emergence of Asia as a major purchaser of African raw materials and primary products.  
+Anecdotally, it appears that trade finance was increasingly available during this period.
+• The crisis has had a negative impact on African trade due to falling demand for 
+African primary product exports. Trade finance availability was sharply constrained during the initial crisis period.
+• It is difficult to discern real trends in African trade finance as markets remain highly volatile. Liquidity and risk appetite vary widely across markets and counterparties.  Across all markets, trade finance tenors have shortened.
+• There is an overall decrease in demand for trade products due to decreased 
+economic activity but a higher proportion of the current transactions are using 
+trade instruments.  
+• International commercial banks that historically provided confirmation lines for trade instruments remain risk averse and seek to maintain/increase returns.
+• Low income countries and the smaller Regional Member Countries are hit hardest by the lack of availability of trade finance due to higher perceived risk, even for low risk transactions.
+• Basel II related capital allocation rules will have a negative impact on the cost and availability of trade finance across the continent.
+• Multilateral Development Banks in other regions play a variety of roles to support 
+trade finance availability, from which AfDB could learn some lessons.
+• The African Development Bank can have a significant impact on trade finance vailability and, consequently, RMC economic performance over the short/medium term.
+Language: en
+Author-Name: Timothy Turner
+Author-Email: t.turner@afdb.org
+Author-Name: Leila Mokaddem
+Author-Email: l.mokadem@afdb.org
+Author-Name: Ghazi Ben Ahmed
+Author-Email: g.benahmed@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/WORKING%20118%20word%20document%20docx%20A.pdf
+File-Size: 746
+File-Format: application/pdf
+Creation-Date: 2010-12-28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:256
+Title: Working Paper 119 - Migration Patterns, Trends and Policy Issues in Africa
+Abstract: This paper documents the pattern, trend and determinants of migration in Africa using rich cross-country migration matrix data and household surveys from Burkina Faso, Ghana, Nigeria and Senegal. Results show that despite increase in the absolute number of migrants, Africa, particularly SubSaharan Africa has one of the lowest rate of migration in the world and a majority of them migrate to other African countries signifying the importance of south-south migration. Poorer countries generally have lower rate of emigration and higher rate of intra-African migrant. 
+Bad socio-economic conditions generally seem to lead to higher rate of emigration by highly skilled individuals.  Generally, migration is driven by motives to improve livelihoods with notable evidence on changes in labor market status. Often, self-employed or unemployed émigré ended up in wage employment. The paper outlines policy issues emerging from the migration trend in Africa.
+Language: en
+Author-Name: Abebe, Shimeles
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: a.shimeles@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/WORKING%20119%20word%20document%20AA.pdf
+File-Size: 1596
+File-Format: application/pdf
+Creation-Date: 2010-12-28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:257
+Title: Working Paper 120 - Community Based Health Insurance Schemes in Africa: the Case of Rwanda
+Abstract: Community-based health insurance schemes (Mutuelles) in Rwanda are one of the largest experiments in community based risk-sharing mechanisms in SubSaharan Africa for health related problems. This study examines the impact of the program on demand for modern health care, mitigation of out-ofpocket catastrophic health expenditure and social inclusiveness based on a nationally representative household 
+survey using traditional regression approach and matching estimator popular in the evaluation literature.     
+Our findings suggest that Mutuelles have been successful in increasing utilization of modern health care services and reducing catastrophic health related expenditure. According to our preferred method, higher utilization of health care services was found among the insured non-poor than insured poor households, with comparable effect in reducing health-related expenditure shocks.
+Language: en
+Author-Name: Abebe, Shimeles
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: a.shimeles@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/WORKING%20120%20word%20document%20AA.pdf
+File-Size: 799
+File-Format: application/pdf
+Creation-Date: 2010-12-28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:258
+Title: Working Paper 121 - Financing Goal 1 of the MDGs in Africa: Some Evidence from Cross-Country Data
+Abstract: This study explores the role of development assistance to finance the required growth to reduce extreme poverty by half in 2015 in Africa. The study utilizes the financing gap and “optimal” aid allocation models to explore the implications of efficient aid utilization and global-aid allocation on total aid required to meet goal 1 of the MDGs. The findings suggest that efficiency in the utilization of development assistance by recipients, or optimal disbursement of aid by donors would take the Africa region  a long way in reaching the target without additional assistance. This evidence provides empirical support to the recent debate on aideffectiveness in particular and reforming aid 
+architecture in general.
+Language: en
+Author-Name: Abebe, Shimeles
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: a.shimeles@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/WORKING%20121%20word%20document%20BB.pdf
+File-Size: 1244
+File-Format: application/pdf
+Creation-Date: 2010-12-28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:259
+Title: Working Paper 122 - Welfare Analysis Using Data from the International Comparison Program for Africa
+Abstract: This paper uses data from the International Comparison Program 2005 
+to recover income and price elasticity estimates for the African continent using the Extended Linear Expenditure System for 13 broadly defined commodities. The results can be used for aggregate welfare comparison in such global models as GTAP (Global Trade Analysis Project) and exercises to infer welfare impact of relative price shocks at the continental level. In a heuristic way also, it is possible to derive a “utility-consistent” global poverty line from the demand function that could be compared with the popular international poverty lines.  
+Results generally indicate that changes in the price of food items could lead to greater welfare loss compared to changes in the price of energy or other commodities. Income elasticity estimates generally fell within bounds usually found from  household surveys. At the continental level, the estimated utilityconsistent subsistence expenditure is close to 1.12 dollar a day per person, which is quite close to the 1.08 dollar a day global (international) poverty line used in 2005 to measure absolute poverty.
+Language: en
+Author-Name: Abebe, Shimeles
+Author-Workplace-Name: African Development Bank
+Author-Workplace-Homepage: http://www.afdb.org/en/knowledge/publications/
+Author-Workplace-Email: afdb@afdb.org
+Author-Workplace-Phone: (+216) 71 10 39 00
+Author-Workplace-Postal: 15 Avenue du Ghana P.O.Box 323-1002 Tunis-Belvedère, Tunisia
+Author-Workplace-Location: Tunis
+Author-Workplace-Institution: RePEc:edi:afdbgci
+Author-Email: a.shimeles@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/WORKING%20122%20word%20document%20BB.pdf
+File-Size: 1178
+File-Format: application/pdf
+Creation-Date: 2010-12-28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:357
+Title: Working Paper Series – Author Guidelines
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/African%20Development%20Bank%20Working%20Paper%20Series%20Guidelines%20for%20Authors.pdf
+File-Size: 73
+File-Format: application/pdf
+Creation-Date: 2010-03-22

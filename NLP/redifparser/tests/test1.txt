@@ -1,0 +1,11 @@
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:adb:adbwps:235
+Title: Working Paper 99 - Capital Flows and Capital Account Liberalisation in the Post-Financial-Crisis Era: Challenges, Opportunities and Policy Responses
+Language: ab
+Author-Name: AfDB
+Author-Email: afdb@afdb.org
+File-Url: http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/WORKING%2099%20Internet%20PDF.pdf
+File-Size: 6313
+File-Format: application/pdf
+Creation-Date: 2010-01-11
+

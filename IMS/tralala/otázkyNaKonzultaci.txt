@@ -1,0 +1,12 @@
+Máme simulovat paralelismus(více uživatelů najednou načítá stránku)? Pokud budeme moci zabrat procesor pouze jedním procesem/vláknem, tak nebude možnost simulovat vytížení procesoru. Bude vždy konstantní.
+
+Systémové procesy běží pořád, mají v podstatě konstantní vytížení komponent. Pokud je skokové, tak mají zařízení stejné zabráno pro sebe. Nic tím neodsimulujeme.
+
+Více procesorový systém = jeden proces = jeden uživatel? Tudíž zde budeme simulovat pseudo-paralelismus? Bude možné najednou zabrat 2-ma uživateli komponenty.
+
+Máme uvažovat cachování? Může být realizováno výpočtem, kdy při požadavku DB na disk bude 30% požadavku vyřízeno rychleji, než zbytek. Vzorec v IOS.
+
+Simulaci požadavku uživatele máme provádět jako:
+ uživatel zašle požadavek -> zpracuje procesor -> sežere pamět -> zažádá DB -> DB si vezme disk -> disk zašle z5 DB -> DB zašle procesoru. Zdroje si zabírá procesor, ne užýivatel při načítání stránky. Jakou úlohu má webový server, DB server?
+
+

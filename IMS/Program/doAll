@@ -1,0 +1,52 @@
+#/bin/bash
+mkdir models
+echo '11'
+./model -d 0 -p 4 -m 30 -ho 24
+mv model.out models/model1.out
+
+echo '12'
+./model -d 0 -p 8 -m 30 -ho 24
+mv model.out models/model2.out
+
+echo '13'
+./model -d 0 -p 4 -m 80 -ho 24
+mv model.out models/model3.out
+
+echo '14'
+./model -d 0 -p 8 -m 80 -ho 24
+mv model.out models/model4.out
+
+
+echo '21'
+./model -d 1 -p 4 -m 30 -ho 24
+mv model.out models/model5.out
+
+echo '22'
+./model -d 1 -p 8 -m 30 -ho 24
+mv model.out models/model6.out
+
+echo '23'
+./model -d 1 -p 4 -m 80 -ho 24
+mv model.out models/model7.out
+
+echo '24'
+./model -d 1 -p 8 -m 80 -ho 24
+mv model.out models/model8.out
+
+
+echo '31'
+./model -d 2 -p 4 -m 30 -ho 24
+mv model.out models/model9.out
+
+echo '32'
+./model -d 2 -p 8 -m 30 -ho 24
+mv model.out models/model10.out
+
+echo '33'
+./model -d 2 -p 4 -m 80 -ho 24
+mv model.out models/model11.out
+
+echo '34'
+./model -d 2 -p 8 -m 80 -ho 24
+mv model.out models/model12.out
+

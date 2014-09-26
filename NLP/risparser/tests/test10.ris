@@ -1,0 +1,1347 @@
+
+TY  - JOUR
+ID  - RDP8
+AU  - Maidak,BonnieL.
+AU  - Cole,JamesR.
+AU  - Lilburn,TimothyG.
+AU  - CharlesT.Parker,Jr.
+AU  - and JasonM.Stredwick,PaulR.Saxman
+AU  - Garrity,GeorgeM.
+AU  - Li,Bing
+AU  - Olsen,GaryJ.
+AU  - Pramanik,Sakti
+AU  - Schmidt,ThomasM.
+AU  - Tiedje,J.M.
+TI  - The {RDP} ({Ribosomal Database Project}) continues
+JO  - Nucleic.Acids.Research.
+VL  - 28
+SP  - 173
+EP  - 174
+RP  - NOT IN FILE
+PY  - 2000///
+ER  - 
+
+TY  - ELEC
+ID  - BOBBY
+AU  - Watchfire Corporation.
+KW  - Bobby
+KW  - accessibility
+KW  - test
+KW  - W3C
+KW  - guidelines
+KW  - HTML
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd///
+ER  - 
+
+TY  - ELEC
+ID  - KARAKAS0
+AU  - Karakas,Chris
+TI  - Chris Karakas
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - FSF0
+AU  - FSF
+TI  - Free Software Foundation
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - ANYBROWSER0
+AU  - AnyBrowser
+TI  - any browser campaign
+KW  - any browser
+KW  - campaign
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - GNU0
+AU  - GNU
+TI  - GNU Free Documentation License
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - LYX0
+AU  - LyX
+TI  - LyX
+KW  - LyX
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - DE_GROOT0
+AU  - de_Groot,Cees .A
+TI  - sgmltools
+KW  - sgmltools
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH2002
+AU  - Walsh,Norman
+AU  - Muellner,Leonard
+TI  - DocBooK: The definitive Guide - Apendix
+KW  - docbook
+KW  - guide
+RP  - NOT IN FILE
+PB  - O'Reilly & Associates, Inc.
+N1  - Accessed 29.06.2003
+PY  - 2002/06/17/Version 2.0.8
+SN  - 156592-580-7
+ER  - 
+
+TY  - ELEC
+ID  - WALSH2002A
+AU  - Walsh,Norman
+AU  - Muellner,Leonard
+TI  - DocBook: The definitive Guide
+KW  - docbook
+KW  - guide
+RP  - NOT IN FILE
+PB  - O'Reilly & Associates, Inc.
+N1  - Accessed 29.06.2003
+PY  - 2002/06/17/Version 2.0.8
+SN  - 156592-580-7
+ER  - 
+
+TY  - ELEC
+ID  - KOMARINSKI0
+AU  - Komarinski,Mark F.
+AU  - Godoy,Jorge
+TI  - LDP-Author-Guide
+KW  - LDP
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - SUSE0
+AU  - SuSE
+TI  - SuSE Linux
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - COMP
+ID  - WALSH0
+AU  - Walsh,Norman
+TI  - DocBook version 4.1
+KW  - docbook
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - COMP
+ID  - WALSH0A
+AU  - Walsh,Norman
+TI  - DocBook version 3.1
+KW  - docbook
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH0B
+AU  - Walsh,Norman
+TI  - DocBook DSSSL modular stylesheets
+KW  - docbook
+KW  - stylesheets
+KW  - DSSSL
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - KARAKAS0A
+AU  - Karakas,Chris
+TI  - A Jade Odyssey
+KW  - Jade
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - BURNALLGIFS0
+AU  - BurnAllGifs
+TI  - Burn All GIFs
+KW  - burn
+KW  - all
+KW  - GIFs
+KW  - GIF
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - GOOGLE0
+AU  - Google
+TI  - Google
+KW  - Google
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH2002B
+AU  - Walsh,Norman
+AU  - Muellner,Leonard
+TI  - DocBook: The definitive Guide
+KW  - docbook
+KW  - guide
+KW  - DTDDECL
+T3  - DTDDECL
+RP  - NOT IN FILE
+BT  - Creating DocBook Documents
+PB  - O'Reilly & Associates, Inc.
+N1  - Accessed 29.06.2003
+PY  - 2002/06/17/Version 2.0.8
+SN  - 156592-580-7
+ER  - 
+
+TY  - ELEC
+ID  - WALSH2002C
+AU  - Walsh,Norman
+AU  - Muellner,Leonard
+TI  - DocBook: The definitive Guide
+KW  - docbook
+KW  - guide
+KW  - DTDDECL
+KW  - all
+T3  - DTDDECL Warnings
+RP  - NOT IN FILE
+BT  - Appendix A: Installation
+PB  - O'Reilly & Associates, Inc.
+N1  - Accessed 29.06.2003
+PY  - 2002/06/17/Version 2.0.8
+SN  - 156592-580-7
+ER  - 
+
+TY  - ELEC
+ID  - KOMARINSKI0A
+AU  - Komarinski,Mark F.
+AU  - Godoy,Jorge
+TI  - LDP-Author-Guide
+KW  - LDP
+RP  - NOT IN FILE
+BT  - Creating and modifying Catalogues
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - PILGRIM0
+AU  - Pilgrim,Mark
+TI  - Dive into Accessibility, day 26
+KW  - accessibility
+KW  - font
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH0C
+AU  - Walsh,Norman
+TI  - collateindex.pl reference page
+KW  - index
+KW  - DSSSL
+KW  - docbook
+KW  - stylesheets
+KW  - collate
+KW  - reference
+KW  - collateindex
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH1998
+AU  - Walsh,Norman
+TI  - Automatic Indexing with the DocBook DSSSL Stylesheets
+KW  - index
+KW  - DSSSL
+KW  - docbook
+KW  - stylesheets
+KW  - collate
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 1998/11/17/
+ER  - 
+
+TY  - ELEC
+ID  - CLAYTON0
+AU  - Clayton,Nik
+TI  - FreeBSD Documentation Project Primer for New Contributors
+KW  - SGML
+KW  - primer
+KW  - FreeBSD
+KW  - documentation
+RP  - NOT IN FILE
+BT  - Chapter 3 SGML Primer
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - SANTA_CRUZ0
+AU  - Santa_Cruz,Diego
+TI  - High quality PDF output from LaTeX and TeX
+KW  - PDF
+KW  - LaTeX
+KW  - TeX
+KW  - fonts
+KW  - PostScript
+KW  - Type1
+KW  - quality
+KW  - lyx_pdf_3.html
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - BEUERMANN2002
+AU  - Beuermann,Sascha
+TI  - Erstellung von leistungf ahigen PDF-Dokumenten mit LaTeX und den Paketen hyperref sowie thumbpdf
+KW  - PDF
+KW  - LaTeX
+KW  - hyperref
+KW  - thumbpdf
+KW  - LaTeX2PDF.pdf
+KW  - TeX
+RP  - NOT IN FILE
+AV  - Institut fuer Baumechanik und Numerische Mechanik Universitaet Hannover
+PB  - Institut fuer Baumechanik und Numerische Mechanik Universitaet Hannover
+N1  - Accessed 29.06.2003
+PY  - 2002/01/15/Version 2.10
+ER  - 
+
+TY  - ELEC
+ID  - LO_R0
+AU  - Lo_Ré,Pascal
+AU  - Nixon,Edward E.(translation)
+TI  - Customizing Document Production
+KW  - document
+KW  - production
+KW  - mandrake
+KW  - PDF
+KW  - DSSSL
+KW  - jadetex.cfg
+KW  - fixingproblems.html
+RP  - NOT IN FILE
+BT  - for Mandrakesoft Linux Documentation
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - CLARK0
+AU  - Clark,James
+TI  - Using Jade for SGML transformations
+KW  - Jade
+KW  - SGML
+KW  - DSSSL
+KW  - transformation
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - COMP
+ID  - PDFTOOLS0
+AU  - PDFTools
+TI  - PDF Linearization and Encryption Tool (LNE)
+KW  - pdlin
+KW  - PDF
+KW  - encryption
+KW  - linearization
+RP  - NOT IN FILE
+AV  - http://www.pdf-tools.com/en/products_evaluation.html
+PB  - PDF Tools AG
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - MANDRAKESOFT0
+AU  - MandrakeSoft
+TI  - manual-print.dsl
+KW  - DSSSL
+KW  - DSL
+KW  - stylesheets
+KW  - print
+KW  - manual-print.dsl
+RP  - NOT IN FILE
+PB  - MandrakeSoft SA
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - MANDRAKESOFT0A
+AU  - MandrakeSoft
+TI  - Mandrake Linux
+KW  - mandrake
+KW  - linux
+RP  - NOT IN FILE
+PB  - MandrakeSoft SA
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - CTAN0
+AU  - CTAN
+TI  - CTAN: the Comprehensive TeX Archive Network
+KW  - TeX
+RP  - NOT IN FILE
+AV  - Saint Michael's College, http://www.smcvt.edu
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - KILIAN-KEHR0
+AU  - Kilian-Kehr,Roger
+TI  - LaTeX to PDF Guide
+KW  - LaTeX
+KW  - PDF
+KW  - guide
+KW  - pdftex
+KW  - dvips
+KW  - Distiller
+KW  - Acrobat
+KW  - docbook/TeX2PDF.html
+KW  - TeX
+RP  - NOT IN FILE
+PB  - Technische Universität Darmstadt, Fachbereich Informatik
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - COMP
+ID  - KILIAN-KEHR0A
+AU  - Kilian-Kehr,Roger
+TI  - xindy
+KW  - index
+KW  - SGML
+KW  - troff
+KW  - LaTeX
+KW  - XML
+KW  - perl
+KW  - xindy
+KW  - TeX
+RP  - NOT IN FILE
+BT  - A flexible indexing system
+PB  - Technische Universität Darmstadt, Fachbereich Informatik
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - W3C0
+AU  - W3C
+TI  - World Wide Web Consortium (W3C)
+KW  - W3C
+KW  - consortium
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - COMP
+ID  - RAGGETT0
+AU  - Raggett,Dave
+AU  - Reitzel,Charlie
+AU  - Hennecke,Christian
+AU  - Teague,Terry
+KW  - W3C
+KW  - consortium
+KW  - HTML
+KW  - tidy
+KW  - sourceforge
+RP  - NOT IN FILE
+AV  - http://tidy.sourceforge.net/
+PB  - World Wide Web Consortium (W3C)(original), Sourceforge (current version)
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - W3C0A
+AU  - W3C
+TI  - W3C Validator
+KW  - W3C
+KW  - consortium
+KW  - validator
+KW  - HTML
+RP  - NOT IN FILE
+PB  - World Wide Web Consortium (W3C)
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - VAN_DER_KOOIJ0
+AU  - van_der_Kooij,Hugo
+TI  - Setup your own docbook processing
+KW  - docbook
+KW  - processing
+KW  - document
+KW  - SGML
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - GNU0A
+AU  - GNU
+TI  - GNU awk info page
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - COMP
+ID  - GNU0B
+AU  - GNU
+TI  - awk
+RP  - NOT IN FILE
+AV  - http://ftp.gnu.org/gnu/gawk/
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - LINUX_COUNTER0
+AU  - Linux_Counter
+TI  - Linux Counter
+KW  - linux
+KW  - counter
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - THATCHER2002
+AU  - Thatcher,Jim
+AU  - Waddell,Cynthia
+AU  - Henry,Shawn
+AU  - Swierenga,Sarah
+AU  - Urban,Mark
+AU  - Burks,Michael
+AU  - Regan,Bob
+AU  - Bohman,Paul
+TI  - Constructing Accessible Web Sites
+KW  - accessibility
+KW  - web design
+KW  - HTML
+RP  - NOT IN FILE
+AV  - http://www.amazon.com
+PB  - glasshaus
+N1  - Accessed 29.06.2003
+PY  - 2002/04//1st edition
+SN  - 1904151000
+ER  - 
+
+TY  - ELEC
+ID  - WATCHFIRE_CORPORATION0
+AU  - Watchfire_Corporation
+TI  - Glossary of Bobby
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - Bobby
+KW  - glossary
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WATCHFIRE_CORPORATION0A
+AU  - Watchfire_Corporation
+TI  - How to read the Bobby Online Report
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - Bobby
+KW  - report
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - CONTENU2001
+AU  - contenu
+TI  - Reader's guide to Sydney Olympics accessibility complaint
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - Olympics
+KW  - Sydney
+KW  - court
+KW  - decision
+KW  - guide
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 2001/10/30/
+ER  - 
+
+TY  - ELEC
+ID  - WORTHINGTON0
+AU  - Worthington,Tom
+TI  - Olympic Failure: A Case for Making the Web Accessible
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - Olympics
+KW  - Sydney
+KW  - court
+KW  - decision
+KW  - guidelines
+KW  - guide
+KW  - all
+KW  - web
+N2  - The issue of disabled access to the web is examined using the case of the 2000 Olympic web site. Wider use of accessibility guidelines for small screen and wireless web devices is discussed.
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - DE_LA_RUE2002
+AU  - De_La_Rue,Michael
+AU  - Snider,Sharon
+TI  - Linux Accessibility HOWTO
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - HOWTO
+RP  - NOT IN FILE
+PB  - The Linux Documentation Project
+N1  - Accessed 29.06.2003
+PY  - 2002/06/21/v3.1
+ER  - 
+
+TY  - ELEC
+ID  - WATCHFIRE_CORPORATION0B
+AU  - Watchfire_Corporation
+TI  - the Bobby Accessibility FAQ
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - FAQ
+KW  - Bobby
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - PILGRIM0A
+AU  - Pilgrim,Mark
+TI  - Dive Into Accessibility - 30 days to a more accessible web site
+KW  - accessibility
+KW  - web design
+KW  - HTML
+KW  - headers
+KW  - web
+RP  - NOT IN FILE
+BT  - Day 27: Using real headers
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - MATHFORUM0
+AU  - Mathforum
+TI  - Math Typesetting for the Internet
+KW  - mathematics
+KW  - typesetting
+KW  - internet
+KW  - TeX
+KW  - LaTeX
+KW  - Scientific Word
+KW  - MathML
+RP  - NOT IN FILE
+PB  - The Math Forum, Drexel University
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - DRAKOS0
+AU  - Drakos,Nikos
+TI  - All about LaTeX2HTML
+KW  - LaTeX
+KW  - HTML
+KW  - LaTeX2HTML
+KW  - TeX
+KW  - mathematics
+KW  - typesetting
+RP  - NOT IN FILE
+PB  - Computer Based Learning Unit, University of Leeds
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - W3C0B
+AU  - W3C
+TI  - W3C Math Home
+KW  - MathML
+KW  - mathematics
+KW  - typesetting
+KW  - W3C
+RP  - NOT IN FILE
+BT  - What is MathML?
+PB  - World Wide Web Consortium (W3C)
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - MATHTYPE0
+AU  - mathtype
+TI  - Math on the Web: A Status Report
+KW  - mathematics
+KW  - web
+KW  - report
+KW  - typesetting
+KW  - MathML
+KW  - status
+RP  - NOT IN FILE
+PB  - Design Science
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - COTTRELL0
+AU  - Cottrell,Allin
+TI  - DBTeXMath
+KW  - docbook
+KW  - DSSSL
+KW  - mathematics
+KW  - typesetting
+KW  - TeX
+KW  - LaTeX
+KW  - DBTeXMath
+KW  - SGML
+RP  - NOT IN FILE
+PB  - Department of Economics, Wake Forest University
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH2002D
+AU  - Walsh,Norman
+AU  - Muellner,Leonard
+AU  - Smith,Michael
+TI  - Re: DOCBOOK-APPS: Re: XSL implementation of DBTeXMath
+KW  - docbook
+KW  - PS
+KW  - guide
+KW  - inlineequation
+KW  - docbook
+KW  - XSL
+KW  - DBTeXMath
+KW  - alt
+KW  - SGML
+KW  - MathML
+KW  - TeX
+RP  - NOT IN FILE
+BT  - inlineequation
+PB  - O'Reilly & Associates, Inc.
+N1  - Accessed 29.06.2003
+PY  - 2002/06/17/Version 2.0.8
+SN  - 156592-580-7
+ER  - 
+
+TY  - ELEC
+ID  - HOENICKA0
+AU  - Hoenicka,Markus
+TI  - The RefDB homepage
+KW  - refdb
+KW  - bibliography
+KW  - database
+KW  - reference
+KW  - SGML
+KW  - XML
+KW  - TEI
+KW  - BibTeX
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - HOENICKA0A
+AU  - Hoenicka,Markus
+TI  - RefDB tutorial
+KW  - refdb
+KW  - bibliography
+KW  - database
+KW  - reference
+KW  - SGML
+KW  - XML
+KW  - TEI
+KW  - BibTeX
+KW  - tutorial
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - KOMARINSKI0B
+AU  - Komarinski,Mark F.
+AU  - Godoy,Jorge
+TI  - Makefile - LDP-Author-Guide
+KW  - LDP
+KW  - Makefile
+KW  - docbook
+KW  - SGML
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - OASIS0
+AU  - OASIS
+TI  - the DocBook mailing list
+KW  - docbook
+KW  - mailing list
+KW  - mailing
+KW  - list
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH0D
+AU  - Walsh,Norman
+TI  - DocBook Modular Stylesheets
+KW  - docbook
+KW  - stylesheets
+KW  - SGML
+KW  - documentation
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - LITT2002
+AU  - Litt,Steve
+TI  - Troubleshooting LyX for a DocBook book
+JF  - Troubleshooting Professional Magazine
+KW  - LyX
+KW  - docbook
+KW  - troubleshooting
+KW  - Troubleshooting Magazine
+VL  - 6
+RP  - NOT IN FILE
+IS  - 1
+N1  - Accessed 29.06.2003
+PY  - 2002/01//
+ER  - 
+
+TY  - ELEC
+ID  - TLDP0
+AU  - TLDP
+TI  - LDP Author's Resources page
+KW  - LDP
+KW  - resources
+KW  - docbook
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - WALSH2002E
+AU  - Walsh,Norman
+AU  - Muellner,Leonard
+TI  - DocBooK: The definitive Guide
+KW  - docbook
+KW  - guide
+KW  - reference
+RP  - NOT IN FILE
+BT  - Appendix G: DocBook Quick Reference (v3.1,  v4.1.2)
+PB  - O'Reilly & Associates, Inc.
+N1  - Accessed 29.06.2003
+PY  - 2002/06/17/Version 2.0.8
+SN  - 156592-580-7
+ER  - 
+
+TY  - ELEC
+ID  - WALSH1998A
+AU  - Walsh,Norman
+TI  - Automatic Indexing with the DocBook DSSSL Stylesheets
+KW  - docbook
+KW  - index
+KW  - DSSSL
+KW  - stylesheets
+KW  - collateindex
+KW  - SGML
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 1998/11/17/
+ER  - 
+
+TY  - ELEC
+ID  - WIEDMANN2002
+AU  - Wiedmann,Michael
+TI  - DocBook DSSSL stylesheet FAQ
+KW  - docbook
+KW  - DSSSL
+KW  - stylesheets
+KW  - FAQ
+KW  - SGML
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 2002/01/26/Revision 0.0.18
+ER  - 
+
+TY  - ELEC
+ID  - GOERZ2002
+AU  - Goerz,Jesse
+TI  - NewbieDoc DocBook Guide
+KW  - docbook
+KW  - NewbieDoc
+KW  - guide
+KW  - SGML
+KW  - stylesheets
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 2002/11/22/Revision v2.1
+ER  - 
+
+TY  - ELEC
+ID  - W3C0C
+AU  - W3C
+TI  - Overview of SGML resources
+KW  - SGML
+KW  - resources
+KW  - overview
+KW  - W3C
+KW  - consortium
+RP  - NOT IN FILE
+PB  - World Wide Web Consortium (W3C)
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - COVERPAGES0
+AU  - CoverPages
+TI  - SGML and XML as (Meta-) Markup Languages
+KW  - SGML
+KW  - XML
+KW  - markup
+KW  - bibliography
+KW  - OASIS
+RP  - NOT IN FILE
+PB  - OASIS
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - TEI-C0
+AU  - TEI-C
+TI  - A gentle introduction to SGML
+KW  - introduction
+KW  - SGML
+RP  - NOT IN FILE
+PB  - TEI
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - NAG0
+AU  - NAG
+TI  - MathML DSSSL stylesheets
+KW  - MathML
+KW  - DSSSL
+KW  - stylesheets
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - PAWSON0
+AU  - Pawson,Dave
+TI  - General DSSSL stylesheet questions
+KW  - DSSSL
+KW  - stylesheets
+KW  - FAQ
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - PAWSON2001
+AU  - Pawson,Dave
+TI  - DocBook FAQ
+KW  - docbook
+KW  - FAQ
+KW  - XML
+KW  - XSLT
+KW  - SGML
+KW  - DSSSL
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 2001/10/13/Revision 1
+ER  - 
+
+TY  - ELEC
+ID  - OASIS0A
+AU  - OASIS
+TI  - DSSSL resources
+KW  - DSSSL
+KW  - resources
+KW  - bibliography
+KW  - OASIS
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - REDHAT0
+AU  - RedHat
+TI  - DocBook tools, DSSSL, sgmltools and various other mailing lists
+KW  - docbook
+KW  - mailing list
+KW  - mailing
+KW  - list
+KW  - DSSSL
+KW  - sgmltools
+KW  - XSL
+KW  - docbook-apps
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - MINER2001
+AU  - Miner,Robert
+AU  - Schaeffer,Jeff
+TI  - A gentle introduction to MathML
+KW  - MathML
+KW  - introduction
+RP  - NOT IN FILE
+PB  - Design Science
+N1  - Accessed 29.06.2003
+PY  - 2001/10//
+ER  - 
+
+TY  - ELEC
+ID  - COVERPAGES0A
+AU  - CoverPages
+TI  - Mathematical Markup Language (MathML)
+KW  - MathML
+KW  - coverpages
+KW  - OASIS
+RP  - NOT IN FILE
+PB  - Cover Pages, hosted by OASIS
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - GUILLON0
+AU  - Guillon,B.
+TI  - DocBook with LyX
+KW  - LyX
+KW  - docbook
+KW  - SGML
+KW  - XML
+KW  - db4lyx
+KW  - Jade
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - LE_ROHELLEC0
+AU  - Le_Rohellec,Benoit
+TI  - Crer de la documentation avec LyX
+KW  - Lyx-DocBook-HOWTO.pdf
+KW  - LyX
+KW  - docbook
+KW  - documentation
+KW  - document
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - DOCBOOK_WIKI0
+AU  - DocBook_wiki
+TI  - Convert other formats to DocBook
+KW  - docbook
+KW  - wiki
+KW  - convert
+KW  - formats
+RP  - NOT IN FILE
+PB  - DocBook Wiki at docbook.org
+N1  - Accessed 29.06.2003
+PY  - ndnd
+ER  - 
+
+TY  - ELEC
+ID  - VOGT2001
+AU  - Vogt,Patrick S.
+TI  - How to convert a LaTeX document into a PDFLaTeX document
+KW  - LaTeX
+KW  - PDFLaTeX
+KW  - hyperref
+KW  - hypertext
+KW  - PDF
+KW  - TeX
+KW  - document
+KW  - convert
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 2001/06/15/
+ER  - 
+
+TY  - ELEC
+ID  - GURARI2000
+AU  - Gurari,Eitan M.
+AU  - Rahtz,Sebastian
+TI  - From LaTeX to MathML and Back with TeX4ht and PassiveTeX
+KW  - LaTeX
+KW  - MathML
+KW  - Tex4ht
+KW  - PassiveTex
+KW  - conference
+KW  - mathematics
+KW  - typesetting
+KW  - web
+KW  - TeX
+RP  - NOT IN FILE
+PB  - MathML International Conference, hosted by Wolfram Research at the University of Illinois at Urbana-Champaign
+N1  - Accessed 29.06.2003
+PY  - 2000/10/20/
+ER  - 
+
+TY  - ELEC
+ID  - GURARI2003
+AU  - Gurari,Eitan M.
+TI  - TeX4ht: LaTeX and TeX for Hypertext
+KW  - TeX
+KW  - hypertext
+KW  - LaTeX
+KW  - Tex4ht
+KW  - resources
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+PY  - 2003/04/12/
+ER  - 
+
+TY  - ELEC
+ID  - WATCHFIRE_CORPORATION2001
+AU  - Watchfire_Corporation
+KW  - accessibility
+KW  - test
+KW  - Bobby
+KW  - HTML
+KW  - design
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003
+ER  -
+PY  - 2001/10/15/
+ER  - 
+
+TY  - ELEC
+ID  - FRISCH2002
+AU  - Frisch,AEleen
+TI  - Administering a Fax Service
+JF  - Linux Magazine
+KW  - HylaFax
+KW  - service
+KW  - administration
+KW  - Fax
+KW  - linux
+KW  - common/samba/pseudo-printer.html
+RP  - NOT IN FILE
+N1  - Accessed 02.07.2003 
+ER  -
+PY  - 2002/07//
+ER  - 
+
+TY  - ELEC
+ID  - BEEBE2003
+AU  - Beebe,Nelson H.F.
+TI  - Outline and bitmap fonts compared
+KW  - outline
+KW  - vector fonts
+KW  - fonts
+KW  - vector
+KW  - bitmap
+KW  - PDF
+KW  - PS
+KW  - PostScript
+KW  - TeX
+KW  - LaTeX
+KW  - dvips
+KW  - outline-vs-bitmap-fonts.html
+KW  - font
+RP  - NOT IN FILE
+N1  - Accessed 29.06.2003 
+ER  -
+PY  - 2003/01/03/
+ER  - 
+
+TY  - CHAP
+ID  - LEWICKI1995
+AU  - Lewicki,J.A.
+AU  - Protter,A.A.
+A2  - Laragh,J.H.
+A2  - Brenner,B.M.
+TI  - Physiological studies of the natriuretic peptide family
+KW  - natriuretic
+KW  - ANF
+KW  - ANP
+KW  - receptors
+KW  - BNP
+KW  - CNP
+KW  - hypertension
+KW  - congestive heart failure
+KW  - review
+KW  - cardiac
+KW  - regulation
+KW  - gene expression
+KW  - expression
+KW  - brain
+KW  - structure
+KW  - biosynthesis
+KW  - receptor
+KW  - inhibitor
+KW  - physiology
+KW  - renal
+KW  - study
+KW  - Peptides
+KW  - atrial natriuretic peptide
+KW  - MODULATOR
+KW  - secretion
+KW  - Gene Expression Regulation
+VL  - 2
+SP  - 1029
+EP  - 1053
+RP  - IN FILE
+IS  - 61
+BT  - Hypertension: Pathophysiology, Diagnosis, and Management
+CY  - New York
+PB  - Raven Press, Ltd.
+ER  -
+ER  -
+N1  - Atrial Natriuretic Peptide   Cardiac synthesis and secretion of /
+ANP   Regulation of ANP Gene Expression   Regulation of ANP Release /
+  ANP Receptors   Biologic Actions of ANP Brain Natriuretic Peptide (BNP) /
+  BNP Structure   Biosynthesis of BNP   Biological Actions of BNP C-Type /
+ Natriuretic Peptide (CNP)   Biologic Actions of CNP Modulators of /
+ Natriuretic Peptide Clearance   Effects of Clearance Receptor Blockers /
+  Effects of Neutral Endopeptidase Inhibitors Role of the Natriuretic / 
+ Peitedes in Physiology and Disease   Hypertension   Congestive Heart  /
+Failure   Supraventricular Tachyarrhythmias   Acute Renal Dysfunction
+PY  - 1995///
+ER  - 
+
+TY  - CHAP
+ID  - LEWICKI1995A
+AU  - Lewicki,J.A.
+AU  - Protter,A.A.
+A2  - Laragh,J.H.
+A2  - Brenner,B.M.
+TI  - Physiological studies of the natriuretic peptide family
+KW  - natriuretic
+KW  - ANF
+KW  - ANP
+KW  - receptors
+KW  - BNP
+KW  - CNP
+KW  - hypertension
+KW  - congestive heart failure
+KW  - review
+KW  - cardiac
+KW  - regulation
+KW  - gene expression
+KW  - expression
+KW  - brain
+KW  - structure
+KW  - biosynthesis
+KW  - receptor
+KW  - inhibitor
+KW  - physiology
+KW  - renal
+KW  - study
+KW  - Peptides
+KW  - atrial natriuretic peptide
+KW  - MODULATOR
+KW  - secretion
+KW  - Gene Expression Regulation
+VL  - 2
+SP  - 1029
+EP  - 1053
+RP  - IN FILE
+IS  - 61
+BT  - Hypertension: Pathophysiology, Diagnosis, and Management
+CY  - New York
+PB  - Raven Press, Ltd.
+ER  -
+ER  -
+N1  - Atrial Natriuretic Peptide   Cardiac synthesis and secretion of /
+ANP   Regulation of ANP Gene Expression   Regulation of ANP Release /
+  ANP Receptors   Biologic Actions of ANP Brain Natriuretic Peptide (BNP) /
+  BNP Structure   Biosynthesis of BNP   Biological Actions of BNP C-Type /
+ Natriuretic Peptide (CNP)   Biologic Actions of CNP Modulators of /
+ Natriuretic Peptide Clearance   Effects of Clearance Receptor Blockers /
+  Effects of Neutral Endopeptidase Inhibitors Role of the Natriuretic / 
+ Peitedes in Physiology and Disease   Hypertension   Congestive Heart  /
+Failure   Supraventricular Tachyarrhythmias   Acute Renal Dysfunction
+PY  - 1995///
+ER  - 

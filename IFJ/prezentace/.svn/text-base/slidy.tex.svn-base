@@ -1,0 +1,169 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%                     Slidy k prezentaci IFJ
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+
+\documentclass[pdf,fyma]{prosper}
+\PassOptionsToPackage{dvips}{graphics}
+
+%\usepackage[text={18cm,25cm}]{geometry}
+
+% nastaveni cestiny a kodovani
+\usepackage[czech]{babel}
+\usepackage[utf8]{inputenc}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                       Titulka
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+
+\title{
+\huge{Intepret jazyka IFJ11}}
+\medskip
+\author{Tým 095, varianta: b/4/I}
+\slideCaption{\textbf{ifj11} -- Tým 095, varianta: b/4/I -- IFJ/IAL 2011/2012 -- \today }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{document}
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Členové týmu}}
+\bigskip
+\begin{itemize}
+\item Peter Michalík (xmicha47)\\
+\item Michal Lukáč (xlukac05)\\
+\item Milan Seitler (xseitl01)\\
+\item Jakub Sznapka (xsznap01)\\
+\item Jan Hrivnák (xhrivn01)\\
+\end{itemize}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Struktura programu}}
+\bigskip
+\begin{figure}[ht]
+\begin{center}
+\scalebox{0.10}{\includegraphics{struktura.eps}}
+\end{center}
+\end{figure}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Lexikální analýza}}
+\bigskip
+\begin{itemize}
+\item deterministický konečný automat\\
+\item čte zdrojový soubor\\
+\item vrací tokeny\\
+\item zpracováva escape sekvence\\
+\end{itemize}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Syntaktická analýza}}
+\bigskip
+\begin{itemize}
+\item zpracovává tokeny\\
+\item LL-tabulka s~epsilon pravidly\\
+\item generace tříadresních instrukcí\\
+\item při výrazech se volá precedenční výrazová analýza\\
+\item precedenční tabulka s~pravidly\\
+\item zapisování do tabulky symbolů\\
+\end{itemize}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Interpret}}
+\bigskip
+\begin{itemize}
+\item vykonavaní instrukcií instrukční sady\\
+\item zásobník pro skoky\\
+\item dvousměrně vázaný lineární seznam pro proměnné\\
+\end{itemize}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Binární vyhledávací strom}}
+\bigskip
+\begin{itemize}
+\item datová struktura\\
+\item uložiště jednotlivých identifikátorú\\
+\item nerekurzivní implementace\\
+\end{itemize}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Merge sort}}
+\bigskip
+\begin{itemize}
+\item řadící algoritmus\\
+\end{itemize}
+
+\begin{figure}[ht]
+\begin{center}
+\scalebox{0.09}{\includegraphics{merge.eps}}
+\end{center}
+\end{figure}
+
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Boyer-Mooreov algoritmus}}
+\bigskip
+\begin{itemize}
+\item vyhledávací algoritmus\\
+\item rychlý hlavně pro velké podřetězce\\
+\end{itemize}
+
+
+\begin{center}
+\begin{table}[ht]
+  \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
+  T & h & i & s~& & i & s~& & F & I~& T \\ \hline
+  & & & & & & & & & & \\ \hline
+  F&I&T&\ &\ &\ &\ &\ &\ &\ &\ \\ \hline
+  \ &\ &\ &F&I&T&\ &\ &\ &\ &\ \\ \hline
+  \ &\ &\ &\ &\ &\ &F&I&T&\ &\ \\ \hline
+  \ &\ &\ &\ &\ &\ &\ &\ &F&I&T \\ \hline
+  \end{tabular}
+\end{table}
+\end{center}
+
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Práce v~týmu}}
+\bigskip
+\begin{itemize}
+\item práce začala hned druhý týden\\
+\item každotýdenní setkání\\
+\item určení časového rozvrhu\\
+\item použití verzovacího systému\\
+\end{itemize}
+\end{slide}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{slide}[Wipe]{\huge{Závěr}}
+\bigskip
+\bigskip
+\begin{center}
+\Large{Děkujeme za pozornost!}
+\end{center}
+\end{slide}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\end{document}

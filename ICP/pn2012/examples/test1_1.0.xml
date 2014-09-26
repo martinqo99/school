@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Petriho_site count="15">
+ <Transition operation="y_=_5" condition="x_&lt;_4" X="158" Y="-34" name="trans5"/>
+ <Transition operation="y_=_x_+_z" condition="x_>_2_&amp;_x_>_3_&amp;_z_==_5" X="442" Y="182" name="trans4"/>
+ <Place X="355" Y="287" tokens="" name="p3"/>
+ <Place X="268" Y="46" tokens="3,4" name="p2"/>
+ <Place X="305" Y="-54" tokens="" name="p1"/>
+ <Place X="93" Y="58" tokens="2" name="p0"/>
+ <Arc direction="0" endtransition="trans4" endplace="p0" label="y" uniqname="Arc14"/>
+ <Arc direction="0" endtransition="trans4" endplace="p3" label="y" uniqname="Arc13"/>
+ <Arc direction="1" endtransition="trans4" endplace="p2" label="x" uniqname="Arc12"/>
+ <Arc direction="1" endtransition="trans4" endplace="p1" label="z" uniqname="Arc11"/>
+ <Arc direction="0" endtransition="trans5" endplace="p2" label="y" uniqname="Arc8"/>
+ <Arc direction="0" endtransition="trans5" endplace="p1" label="y" uniqname="Arc7"/>
+ <Arc direction="1" endtransition="trans5" endplace="p0" label="x" uniqname="Arc6"/>
+</Petriho_site>

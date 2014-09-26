@@ -1,0 +1,107 @@
+#!/bin/sh
+#
+# Nazov    : hltrace, B. Zvyraznenie syntaxe
+# Autor    : Michal Lukac, xlukac05@stud.fit.vutbr.cz
+# Datum    : 10.3.2011
+# Info     : Tento skript sluzi ako prvy projekt pre predmet IOS na VUT FIT.
+#            Ulohou tohoto skriptu je zvyraznovanie syntaxe textu zaznamenaneho
+#            pomocou strace a vystupom je HTML stranka.
+# P.riadkov: 107
+# Testovane: na systemoch FREEBSD, LINUX, SOLARIS
+#===================================================================================
+
+system=$(uname) # Ziskanie nazov systemu 
+
+# Funkcia print_help() vypise napovedu pre skript.
+print_help(){
+  printf "hltrace zvyrazni syntax stopy od strace.\n"
+  printf "Pouziti: hltrace [volby] <stopa.strace >stopa.html\n"
+  printf "Volby:\n"
+  printf "  -s SYSCALL  Specialne zvyrazni volani SYSCALL.\n"
+  exit 1
+}
+
+# Zaciatok html tagu a href.
+link="<a href=\"http:\/\/www\.kernel\.org\/doc\/man-pages\/online\/pages\/man2\/"
+
+# Spracovanie parametrov pomocou funkcie getopts.
+while getopts ":hs:" param; do
+case "$param" in
+  s) syscall="$OPTARG"
+     call="TRUE";;
+  h) print_help;;
+  *) print_help;;
+esac
+done
+
+# Kontrola parametrov.
+if [ "$call" = "TRUE" ]; then
+  if [ "$#" != "2" ]; then
+    printf "Chybny parameter!\n"
+    exit 1
+  fi
+elif [ "$call" != "TRUE" ]; then
+  if [ "$#" != "0" ]; then
+    printf "Chybny parameter!\n"
+    exit 1
+  fi
+fi
+
+# Vypisanie zaciatku html.
+printf "<html>\n"
+printf "<style>\n"
+printf ".pid { color:darkred; }\n"
+printf ".ts { color:navy; }\n"
+printf ".number { color:red; }\n"
+printf ".const { color:green; }\n"
+printf ".string { color:blue; }\n"
+printf ".hlcall { text-decoration:none; font-weight:bold; color:black; }\n"
+printf ".call { text-decoration:none; color:olive; }\n"
+printf "</style>\n"
+printf "<body><pre>\n"
+
+# Nacitanie textu, spracovanie,vypis.
+while read -r line; do
+  # Nahradenie znakov <>& pomocou sed.
+  line="$(printf "%s\0" "$line" | sed -e 's/&/\&amp;/g' -e 's/</\&lt;/g' -e 's/>/\&gt;/g')"
+
+  # Oznacenie retazcovych literalov triedou string.
+  line=$(printf "%s\0" "$line" | sed -r 's/("[^"]*")/\<span class="string"\>\1\<\/span\>/g')
+
+  # Oznacenie konstant triedou const.
+  line=$(printf "%s\0" "$line" | sed -r 's/([\[|{&=])([[:upper:]]+[[:upper:]_0-9]+)([^\\]+)/\1\<span class="const"\>\2\<\/span\>\3/g 
+                                 s/([[:upper:]]+[[:upper:]_0-9]+)([(|&)},])/\<span class="const"\>\1\<\/span\>\2/g 
+                                 s/([[:upper:]]+[[:upper:]_0-9]+)( \()/\<span class="const"\>\1\<\/span\>\2/g 
+                                 s/(, )([[:upper:]]+[[:upper:]_0-9]+)/\1\<span class="const"\>\2<\/span\>/g')
+
+  # Oznacenie relativnych casovych udajov triedou ts.
+  line=$(printf "%s\0" "$line" | sed -r 's/ ([0-9]+\.[0-9]*) /\ <span class="ts"\>\1\<\/span\> /g')
+
+  # Oznacenie systemovych volani.
+  if [ "$call" = TRUE ]; then
+    line=$(printf "%s\0" "$line" | sed -r "s/($syscall)\(/$link\1\.2\.html\" class=\"hlcall\"\>\1\<\/a\>\(/g")
+  fi
+  line=$(printf "%s\0" "$line" | sed -r "s/^([a-z_][a-z0-9_]*)\(/$link\1\.2\.html\" class=\"call\"\>\1\<\/a\>\(/g
+                                  s/([^a-zA-Z] )([a-z_][a-z0-9_]*)\(/\1$link\2\.2\.html\" class=\"call\"\>\2\<\/a\>\(/g")
+
+  # Oznacenie cisla procesov triedou pid.
+  line=$(printf "%s\0" "$line" | sed -r 's/^([0-9]+) /\<span class="pid"\>\1\<\/span\> /g')
+
+  # Oznacenie ciselnych parametrov triedou number.
+  line=$(printf "%s\0" "$line" | sed -r 's/([^=])(-*0[Xx][0-9A-Fa-f]+)/\1<span class="number"\>\2\<\/span\>/g
+                                 s/ ([-0-9]+)\)/ \<span class="number"\>\1\<\/span\>\)/g
+                                 s/([^=]= )([-0-9\-]+)/\1<span class="number"\>\2\<\/span\>/g
+                                 s/\(([-0-9\-]+)\)/\(<span class="number"\>\1\<\/span\>\)/g
+                                 s/([^=0-9"|])([-0-9]+),/\1<span class="number"\>\2\<\/span\>,/g')
+
+  # Vypisanie podla systemu
+  if [ "$system"  = "SunOS" ] ; then
+    printf "%s\0" "$line" | sed -r 's/(.+)./\1/g'
+    echo ""
+  else
+    echo "$line"
+  fi
+done
+
+printf "</pre></body></html>\n" 
+exit 0

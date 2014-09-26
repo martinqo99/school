@@ -1,0 +1,25 @@
+% Cteni obrazovych dat v MATLABu
+% zadani projektu C.
+% Petr Fedra, cviceni BUMI 2011.
+
+close all
+I_info = imfinfo('FingerPrint.bmp','bmp')
+[I,map] = imread('FingerPrint.bmp','bmp');
+scrsz = get(0,'ScreenSize');
+magnification = 160;    %nastavte vlastni zvetseni pro vsechny obrazy
+figure();
+imshow(I,map, 'InitialMagnification', magnification)
+title('Indexovy format obrazu - leva smycka')
+I_BW = im2bw(I, map, 0.8);
+figure();
+imshow(I_BW, 'InitialMagnification', magnification)
+title('Cerno-bily format obrazu')
+I_neg_BW = ~I_BW;
+figure();
+imshow(I_neg_BW, 'InitialMagnification', magnification)
+title('Negativ cerno-bileho obrazu')
+I_morf=bwmorph(I_neg_BW,'thin', inf);
+figure();
+imshow(I_morf, 'InitialMagnification', magnification)
+title('Ztenceni obrazu');
+

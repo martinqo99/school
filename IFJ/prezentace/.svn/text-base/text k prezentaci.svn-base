@@ -1,0 +1,60 @@
+Lexikální analýza:
+
+jsme implementovali jako deterministický konečný automat, jehož vstupem je zdrojový program v jazyce IFJ11 a výstupem jsou jednotlivé tokeny obsahující číselnou konstantu označující typ načteného tokenu a pokud je to potřeba tak také obsah tohoto tokenu (číselné a textové literály).
+
+V této části se dále provádí převod escape sekvencí na znak s odpovídající ASCII hodnotou. Lexikální analýza nijak nezasahuje do tabulky symbolů
+
+
+Syntaktická analýza
+
+Začněme nejprve rekurzivním sestupem. Předlohou pro implementaci této části parseru je LL-tabulka, v našem případě obsahuje epsilon pravidla, která umožňují snadnější implementaci. Samotný parser pracuje podle jednotlivých pravidel tabulky. Ve chvíli, kdy je nutné zpracovat výraz, je volána precedenční výrazová analýza. Výraz se může vyskytovat v několika různých pozicích, při komunikaci s výrazovým analyzátorem je tedy využíván parametr, který udává, zda jde například o volání v rámci přiřazení do proměnné nebo o volání během příkazu write. 
+
+Dalším úkolem hlavního parseru je zpracovávat volání funkcí a to jak vestavěných tak i uživatelem definovaných. Provádí také některé sémantické akce, konkrétně kontrolu situace, kdy dochází k použití nedefinované proměnné či k její redefinici.
+
+Parser během své činnosti generuje seznam tříadresných instrukcí, které jsou dále zpracovány interpretem.
+
+
+Syntaktický analyzátor výrazů je založen na precedenční analýze, ktera se provadi podle, precedenční tabulky. 
+
+Hlavní funkcí starající se o zpracování je syntAnalExpr(). Tato funkce je volána v případě, že obecný syntaktický analyzátor očekává výraz. Funkce zpracuje výraz, vygeneruje potřebné trojadresné instrukce pro výpočet a vratí strukturu tElement. Ta obsahuje chybovy kod a ukazatel do binarniho stromu na misto, kde se nachazi vysledek.  
+
+Samotna fce pak zpracovava tokeny, které jsou načteny pomocí lexikálního analyzátoru a tyto tokeny jsou dále přečíslovány pro potřebu indexace precedencni tabulky. Podle pravidel určených tabulkou jsou poté zpracovávány a to tak, že jsou buďto uloženy na zásobník, nebo jsou redukovány pomocí pravidel. Pri redukci je v pripade instrukci generovana trojadresna instrukce a vytvorena polozka v binarnim strome, do ktere se ulozi vysledek.
+
+
+
+
+Interpret
+
+Interpretacia sa stará o vykonaní jednotlivych instrukci, ktore generuje syntakticky analyzator. Instrukce jsou ulozeny v seznamu a vykonavaji se za sebou. Nase instrukcni sada obsahuje 32 instrukci pricem instrukce sme zvolili trojadresni pro jednoduchost implementace. Instrukce muzou obsahovat bud adresu dalsi instrukce pri skoku alebo polozku z tabulky symbolu implementovanou jako binarni strom. Jedinou funkciou interpretaci je funkcia interpret(). Je to z dovodu rychlosti programu. Program se zacina vykonavat od instrukce I_LAB_MAIN a konci instrukci I_END. Interpret vyuziva dva pomocne ADT(abstraktni datovy typ). Prvou z nich je zásobnik pre skoky, v ktorom je navrchu vždy posledná adresa inštrukcie, kam má program skočiť pri I_JMP a I_JMPN. Druhou je dvojsmerný lineárny zoznam, ktorý slúži pre ukladanie náveští a jednotlivých premenných z tabulky symbolov. Týmto sme v podstate vyriešili obor platnosti premenných, keďže sa berú vždy položky v rámci danej funkcie a neprepisujeme si hodnoty v binárnom strome. Do zoznamu sa pridávajú lokálne premenné z deklaračnej časti a parametre funkcie.
+
+
+TABULKA SYMBOLOV - BTREE
+
+Tabulka symbolu je datova struktura ktoru vyuziva prekladac pro ukladani jednotlivych identifikatoru. Tabulka symbolov sme implemetovali ako binarni vyhladavaci strom. Strom sme implementovali nerekurzivne pre rychlost okrem funkcie pre vymazanie stromu, pretoze sa vola len raz. Jednotlive uzly stromu obsahuji dva ukazatele na lavu a pravu cast stromu. Uzol stromu obsahuje taktiez datovu polozku, v ktorej je uchovavany nazov identifikatoru, union pre data(string, double, int=boolean), typ dat. Ako klic do stromu sluzi nazov identifikatoru.
+
+
+Merge sort
+
+radiaci algoritmus, pre ktory pristupuje priamo k prvkom pola, ma lineritmicku casovu zlozitost, je pren specificke heslo rozdeluj a panuj, rekurzivne si rozdeluje vstupnu postupnost az na jednotlive znaky a tie postupne zaraduje za seba tym vznikne vysledna postupnost
+
+
+BOYER-MOORE
+
+Boyer-Moore algoritmus je považovaný za efektívny vyhľadávací algoritmus pre prehľadávanie podreťazca v reťazci. Jeho efektivita sa zvyšuje väčšou abecedou a väčšim podreťazcom. Vhodný pre bežný text. Pre binárnu abecedu je nevhodný.Výhoda Boyer-Moore algoritmu je prehľadávanie podreťazca od konca a následny posun o určitý index. O aký index sa posunieme, vysvetlíme na nasledujúcich riadkoch. Najprv si vytvoríme pole pre ascii tabulku.Toto pole do ktorého budeme pristupovať pomocou znakového literálu ohodnotíme veľkosťou reťazca. Následne pre znaky hľadaného podreťazca nastavíme hodnoty do pola podľa toho na akom indexu sa nachádzajú. Následne prehľadávame podreťazec s reťazcom. Porovnám posledný znak podreťazca so znakom reťazca ktorý ma rovnaký index. Pokiaľ sa znaky zhodujú posunieme sa o jeden znak späť. Pokiaľ sa znaky nezhodujú posunieme sa o počet prvkov udávajúca tabulka ktorú sme si na začiatku vypočítali. Casova slozitost je O(mn).
+
+This is FIT! // reťazec
+FIT          // podreťazec, 'F' = 2, 'I' = 1, 'T' = 0, 'ostatné znaky' = 3
+FIT          // posunieme sa o "i" teda tri znaky
+   FIT
+      FIT    // posunieme sa o "F" teda 2 znaky
+        FIT  // našli sme reťazec
+
+
+Práca v tíme
+
+začali sme už druhý týždeň, mali sme tím už vytvorený, začali sme merge sortom, binarnym stromom, boyer mooreom, a lexikalnou analyzou, stretka kazdy tyzden, preberali sme problemy a pokrok, najskor  teoreticke problemy v kniznici, neskor sme pracovali v CVT,  pred odovzdanim (pokusnym) sme chodili denne
+
+problemov vela nebolo, obcasna nekompatibilita, kludne prostredie, dobry casovy rozvrh, subversion ako verzovaci system
+
+
+

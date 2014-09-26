@@ -1,0 +1,87 @@
+% Cteni obrazovych dat v MATLABu
+% zadani projektu C.
+% Petr Fedra, cviceni BUMI 2011.
+
+% Autor: vypracovania: Michal Lukac, xlukac05@stud.fit.vutbr.cz
+% Datum: 6.10.2011
+function michallukac_c()
+    clear all
+    close all
+    
+    % Zaciatok upravy obrazu
+    I_info = imfinfo('FingerPrint.bmp','bmp');
+    [I,map] = imread('FingerPrint.bmp','bmp');
+    scrsz = get(0,'ScreenSize');
+    magnification = 160;
+    figure();
+    subplot(2,2,1)
+    imshow(I,map, 'InitialMagnification', magnification)
+    title('Indexovy format obrazu - leva smycka')
+    I_BW = im2bw(I, map, 0.8);
+    subplot(2,2,2);
+    imshow(I_BW, 'InitialMagnification', magnification)
+    title('Cerno-bily format obrazu')
+    I_neg_BW = ~I_BW;
+    subplot(2,2,3)
+    imshow(I_neg_BW, 'InitialMagnification', magnification)
+    title('Negativ cerno-bileho obrazu')
+    I_morf=bwmorph(I_neg_BW,'thin', inf);
+    subplot(2,2,4);
+    imshow(I_morf, 'InitialMagnification', magnification)
+    title('Ztenceni obrazu');
+    
+    % Aplikujeme sub funkciu drobnosti pomocou nlfiltru ztenseny obrazok
+    L = nlfilter(I_morf, [3 , 3], @drobnosti);
+    L_zacatek = (L == 1);
+    L_vydlice = (L == 3);
+    L_uvnitr = (L == 2);
+    
+    % Vykreslime vydlice, pociatocne a vnutorne body
+    figure();
+    subplot(1,3,1);
+    imshow(L_uvnitr, 'InitialMagnification', magnification);
+    title('Body vo vnutri')
+    subplot(1,3,2);
+    imshow(L_zacatek, 'InitialMagnification', magnification);
+    title('Pociatocne body')
+    subplot(1,3,3);
+    imshow(L_vydlice, 'InitialMagnification', magnification);
+    title('Vydlice')
+    
+    %vykreslenie final
+    figure();
+    subplot(2,2,[1 3]);
+    imshow(L,'InitialMagnification', magnification)
+    hold on;
+    [x_p,y_p] = find(L_vydlice);
+    plot(y_p,x_p,'ob');
+    hold on;
+    [x_p,y_p] = find(L_zacatek);
+    plot(y_p,x_p,'or');
+    title('Vydlice - modre, Zacatek - cervene');
+    hold off;
+    subplot(2,2,2);
+    imshow(L,'InitialMagnification', magnification)
+    hold on;
+    [x_p,y_p] = find(L_vydlice);
+    plot(y_p,x_p,'ob');
+    hold off;
+    subplot(2,2,4);
+    [x_p,y_p] = find(L_zacatek);
+    plot(y_p,x_p,'or');
+    imshow(L,'InitialMagnification', magnification)
+    hold on;
+    plot(y_p,x_p,'or');
+    hold off;
+    
+    % Subfunction drobnosti
+    function y = drobnosti(x)
+        i = ceil(size(x)/2);
+        if x(i,i) == 0
+            y = 0;
+        else
+            y = sum(x(:)) - 1;
+        end
+    end
+end
+

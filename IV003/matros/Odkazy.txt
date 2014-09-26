@@ -1,0 +1,2 @@
+http://courses.csail.mit.edu/6.006/spring11/notes.shtml
+http://www.algoritmy.net/article/102/Asymptoticka-slozitost

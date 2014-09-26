@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/test">
+        <file>examples/SiteXml.xml</file>
+        <file>examples/Sites/test2_1.0.xml</file>
+        <file>examples/Sites/test2_1.1.xml</file>
+        <file>examples/Sites/test2_1.2.xml</file>
+        <file>examples/Sites/test3_1.0.xml</file>
+        <file>examples/Sites/test3_1.1.xml</file>
+        <file>examples/Sites/test3_1.2.xml</file>
+    </qresource>
+</RCC>

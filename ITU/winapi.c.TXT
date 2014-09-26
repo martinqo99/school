@@ -1,0 +1,248 @@
+//WinAPI ITU skelet
+//HINT - this is how the key areas of the code are marked
+// xlukac05
+#include <windows.h>
+#include <stdio.h>
+#include <string.h>
+
+#include <math.h>
+
+// Global variable
+
+//HINT - global variables are put here
+
+HINSTANCE hInst;
+HBITMAP bitmapa = NULL;
+POINT pt;
+POINT coords;
+RECT pozice_okna;
+int ex = 150;
+int ey = 150;
+
+// Function prototypes.
+int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int);
+LRESULT CALLBACK MainWndProc(HWND, UINT, WPARAM, LPARAM);
+
+void onPaint(HWND hWnd);
+
+// Application entry point. 
+
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
+{
+    MSG msg;
+    BOOL bRet;
+    WNDCLASS wcx;          // register class
+    HWND hWnd;
+    hInst = hInstance;     // Save the application-instance handle.
+    
+		// Fill in the window class structure with parameters that describe the main window.
+
+    wcx.style = CS_HREDRAW | CS_VREDRAW;              // redraw if size changes
+    wcx.lpfnWndProc = (WNDPROC) MainWndProc;                    // points to window procedure
+    wcx.cbClsExtra = 0;                               // no extra class memory
+    wcx.cbWndExtra = 0;                               // no extra window memory
+    wcx.hInstance = hInstance;                        // handle to instance
+    wcx.hIcon = LoadIcon(NULL, IDI_APPLICATION);      // predefined app. icon
+    wcx.hCursor = LoadCursor(NULL, IDC_ARROW);                                   // predefined arrow
+    wcx.hbrBackground = GetStockObject(WHITE_BRUSH);  // white background brush
+    wcx.lpszMenuName =  (LPCSTR) "MainMenu";                   // name of menu resource
+    wcx.lpszClassName = (LPCSTR) "MainWClass";                 // name of window class
+
+	// by me
+	bitmapa = (HBITMAP)LoadImage(hInst, "256.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
+	coords.x = 20;
+	coords.y = 20;
+
+    // Register the window class.
+
+    if (!RegisterClass(&wcx)) return FALSE;
+
+    // create window of registered class
+
+    hWnd = CreateWindow(
+        "MainWClass",        // name of window class
+        "ITU",       // title-bar string
+        WS_OVERLAPPEDWINDOW, // top-level window
+        50,                  // default horizontal position
+        100,                 // default vertical position
+        400,                 // default width
+        400,                 // default height
+        (HWND) NULL,         // no owner window
+        (HMENU) NULL,        // use class menu
+        hInstance,           // handle to application instance
+        (LPVOID) NULL);      // no window-creation data
+    if (!hWnd) return FALSE;
+
+    
+		
+		//HINT - if you need to initialize anything - HERE is the right spot
+
+		// Show the window and send a WM_PAINT message to the window procedure.
+    // Record the current cursor position.
+
+	if(bitmapa==NULL)
+ {
+		MessageBox(hWnd,"Error","Warning!!!",MB_ICONWARNING);
+		exit(1);
+	}
+
+
+    ShowWindow(hWnd, nCmdShow);
+    UpdateWindow(hWnd);
+    // loop of message processing
+
+    while( (bRet = GetMessage( &msg, NULL, 0, 0 )) != 0)
+    {
+        if (bRet == -1)
+        {
+            // handle the error and possibly exit
+        }
+        else
+        {
+            TranslateMessage(&msg);
+            DispatchMessage(&msg);
+        }
+    }
+		//HINT - dont put anything else here - it would be processed by the end of the application run
+    return (int) msg.wParam;
+}
+
+LRESULT CALLBACK MainWndProc(
+    HWND hWnd,        // handle to window
+    UINT uMsg,        // message identifier
+    WPARAM wParam,    // first message parameter
+    LPARAM lParam)    // second message parameter
+{
+	
+   POINT ReleasePoint;        // point where mouse button was released
+
+	//HINT - put new case branches to crate the reactions to the mouse/keyboard input
+    switch (uMsg)
+    {
+		       case WM_CHAR:
+			          switch (wParam) {
+                 case 0x08:  // backspace
+                 case 0x0A:  // linefeed
+                 case 0x1B:  // escape
+                    MessageBeep((UINT) -1);
+                    break;
+                 default:    // displayable character
+                    // Store the character in the buffer.
+                    break;
+            }
+            InvalidateRect(hWnd, NULL, TRUE);
+            break;
+
+			      case WM_KEYDOWN:
+              switch (wParam) {
+                   case VK_LEFT:   // LEFT ARROW
+                       if(coords.x > 0)
+                           coords.x = coords.x - 3;
+					                  break;
+                   case VK_RIGHT:  // RIGHT ARROW
+                       if(coords.x < pozice_okna.right-50)
+                           coords.x = coords.x + 3;
+					                  break;
+                		case VK_UP:
+                       if(coords.y > 0)
+                           coords.y = coords.y - 3;
+					                  break;
+               			case VK_DOWN:
+                       if(coords.y < pozice_okna.bottom - 50)
+      	 				                coords.y = coords.y + 3;
+				   	               break;
+              }
+         			InvalidateRect(hWnd, NULL,TRUE);
+            break;
+
+   case WM_CREATE:
+        // Initialize the window.
+					   return 0;
+
+   case WM_SIZE:
+        // Set the size and position of the window.
+			  			//HINT - do we want to update the window during the size change???
+        return 0;
+
+    case WM_DESTROY:
+        // Clean up window-specific data objects.
+        PostQuitMessage(0);
+        return 0;
+
+				case WM_MOUSEMOVE:
+					//HINT - do we care wheter the mouse is moving?
+					InvalidateRect(hWnd, NULL, TRUE);
+					return 0;
+
+				case WM_PAINT:
+					onPaint(hWnd);
+					//HINT - the drawing of the window content MUST be placed only HERE - which function does that??
+					return 0;
+        default:
+            return DefWindowProc(hWnd, uMsg, wParam, lParam);
+
+    case WM_LBUTTONDOWN:
+         SetCapture(hWnd);
+         break;
+
+    case WM_LBUTTONUP:
+         ReleasePoint.x = (int)LOWORD(lParam);
+         ReleasePoint.y = (int)HIWORD(lParam);
+         ex = ReleasePoint.x;
+         ey = ReleasePoint.y;
+         if (ReleasePoint.x > 0x7FFF) ReleasePoint.x -= (long)0xFFFF;
+         if (ReleasePoint.y > 0x7FFF) ReleasePoint.y -= (long)0xFFFF;
+         //ClientToScreen(hwndMain, &ReleasePoint);
+         //hwndTmp = WindowFromPoint(ReleasePoint);
+         //SetWindowText( hwndTmp, ... );
+         ReleaseCapture();
+         break;
+    }
+}
+
+void onPaint(HWND hWnd){
+	PAINTSTRUCT ps;                 // information can be used to paint the client area of a window owned by that application
+ HDC         hDC;                // device context
+	long id1,id2,l,xc,yc,x,y,resy,resx;
+	BITMAP bitmap;
+	RECT rc;
+	char carray[200];
+
+ GetClientRect(hWnd, &pozice_okna);
+	GetObject(bitmapa, sizeof(bitmap), &bitmap);
+	GetWindowRect(hWnd,(LPRECT)&rc);
+
+	//HINT - THE CODE TO DRAW THE WINDOW CONTENT
+	//HINT - where should we call this function???
+ hDC = BeginPaint(hWnd, &ps);    // prepares the specified window for painting
+	id1 = rc.top;
+	id2 = rc.bottom;
+
+ //xc = abs(pt.x - coords.x);
+ //yc = abs(pt.y - coords.y);
+ //l = sqrt(xc*xc + yc*yc);
+ //if(l != 0)
+ //{
+ //  x = (xc/l) * 100;
+ //  y = (yc/l) * 100; 
+ //}
+ //resx = coords.x + x;
+ //resy = coords.y + y;
+
+	MoveToEx(hDC, coords.x+25, coords.y+25, NULL);
+	LineTo(hDC, pt.x , pt.y);
+	
+	GetCursorPos((LPPOINT)&pt);
+	ScreenToClient(hWnd, &pt);
+	
+	sprintf(carray, "ITU rocks! x coord:%ld, y coord: %ld " ,pt.x,pt.y);
+ Rectangle(hDC,ex-20,ey-20,ex+20,ey+20);
+	TextOut(hDC, 0, 0, carray,strlen(carray));
+	DrawState(hDC, NULL, NULL, (LPARAM)bitmapa ,NULL, coords.x, coords.y, bitmap.bmWidth, bitmap.bmHeight, DST_BITMAP  );
+	
+ //HINT  - some computation and use of drawing functions
+	//HINT  - also we sure need to discover the mouse location
+	
+ DeleteDC(hDC);                  // deletes the specified device context
+ EndPaint(hWnd, &ps);            // marks the end of painting in the specified window
+}

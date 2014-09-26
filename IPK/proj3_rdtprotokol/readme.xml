@@ -1,0 +1,44 @@
+<ipk-projekt-3>
+<autor>Michal Lukáč</autor>
+<login>xlukac05@stud.fit.vutbr.cz</login>
+<datum>17.04.2012</datum>
+<soubory>
+<soubor jmeno="Makefile" autor="Michal Lukáč"/>
+<soubor jmeno="client.c" autor="Michal Lukáč"/>
+<soubor jmeno="server.c" autor="Michal Lukáč"/>
+<soubor jmeno="readme.xml" autor="Michal Lukáč"/>
+<soubor jmeno="udt.h" autor="Ing. Ondřej Ryšavý, Ph.D."/>
+</soubory>
+<protokol>
+Protokol RDT využíva služieb UDP a používa tieto mechanizmy
+pre zabezpečenie spoľahlivosti:
+1. Go-Back-N algoritmus
+Pri RDT protokole som si vybral Go-Back-N algoritmus, ktorý sa mi
+zdal jednoduchší na implementáciu ako Selective-repeat. Go-Back-N
+využíva Sliding Window, ktorý som implementoval ako pole velikosti 5.
+Do tohoto pola sú pakety (2)Zretezované a následné (3)potvrdzované serverom.
+
+Môj RDT protokol neobsahuje žiadny mechanizmus pre kontrolu poškodeného
+paketu ako napríklad jednoduchý algoritmus pre checksum.
+
+Obsah správy protokolu:
+<!--
+<rdt-segment id=\"xlukac05\">
+ <header>
+  <endshake>NUMBER</endshake>
+  <length>NUMBER<length>
+  <packetindex>NUMBER</packetindex>
+  <ACK>NUMBER<ACK>
+ </header>
+ <data>
+ 	BASE64coded data
+ </data>
+</rdt-segment>
+-->
+V hlavičke sa nachádza endshake ktorý udáva či sa jedná o posledný paket(1) alebo nie(0).
+Length v hlavičke udáva počet načítaných B. pre server.
+Packetindex slúži pre určenie poradia paketu pre server a následne odpoveď serveru pomocou
+tagu ACK v ktorom sa nachádza poradie potvrdeného paketu. V elemente data sa nachádzajú
+kódované data do base64.
+</protokol>
+</ipk-projekt-3>

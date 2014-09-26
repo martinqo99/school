@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/imgs/icons">
+        <file>images/icons/archive.png</file>
+        <file>images/icons/back_alt.png</file>
+        <file>images/icons/exit.png</file>
+        <file>images/icons/forward_alt.png</file>
+        <file>images/icons/help.png</file>
+        <file>images/icons/info.png</file>
+        <file>images/icons/new doc.png</file>
+        <file>images/icons/open alt.png</file>
+        <file>images/icons/play.png</file>
+        <file>images/icons/stop_alt.png</file>
+        <file>images/icons/Graphite Globe.png</file>
+        <file>images/icons/forward button.png</file>
+        <file>images/icons/refresh.png</file>
+        <file>images/icons/search.png</file>
+        <file>images/icons/user.png</file>
+        <file>images/icons/install.png</file>
+        <file>images/icons/Desktop 2.png</file>
+        <file>images/icons/users.png</file>
+        <file>images/icons/transition.png</file>
+        <file>images/icons/arc.png</file>
+        <file>images/icons/place.png</file>
+        <file>images/icons/edit.png</file>
+        <file>images/icons/delete.png</file>
+        <file>images/icons/link_add.png</file>
+        <file>images/icons/link_delete.png</file>
+        <file>images/icons/delete2.png</file>
+        <file>images/icons/applications.png</file>
+        <file>images/icons/server.png</file>
+        <file>images/icons/Universal.png</file>
+        <file>images/petri_net.png</file>
+        <file>images/icons/pdf.jpg</file>
+    </qresource>
+    <qresource prefix="/configures">
+        <file>configure/visualoptions.xml</file>
+        <file>configure/index.html</file>
+    </qresource>
+</RCC>

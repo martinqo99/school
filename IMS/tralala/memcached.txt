@@ -1,0 +1,27 @@
+Memcached http://memcached.org/
+-------------------------------
+
+Memcached je open-source high-performance caching multiplatformnı systém, najèastejšie pouívanı v dynamickıch webovıch stránkach s ve¾kım
+poètom uivate¾ov a dotazov do databázy. Úlohou memcached systému je od¾ahèi pouívanie databázy a tak zrıchli
+systém. Takıto systém dokáe obslúi omnoho viac dotazov od uivate¾ov.[1-http://memcached.org/]
+
+Memcached systém slúi ako cache pamä, ktorá vyuíva cachovanie dát a objektov do pamäti RAM[2-http://en.wikipedia.org/wiki/Memcached].
+Cachované datá su uloené v RAM do ve¾kej hash tabulky na príncípu k¾uè-hodnota. Sluba memcached sa pri dátovo vyaenıch
+weboch ako je napríklad Reddit distribuje na viacero serveroch, kde beí samostatne. My toto zanedbáme, keïe úlohou je vytvorenie
+modelu jedného webserveru s 1-N procesormi, prièom sluba bude simulovaná ako proces. Èasová zloitos kadého príkazu get je
+O(1). [3-http://code.google.com/p/memcached/wiki/NewOverview].
+
+Systém memcached sa stal ob¾úbenı pre svoje jednoduché pouitie a API pre viacero programovacích jazykov. Bez tohoto
+systému by v súèasnoti nemohli by obs¾uhované weby s miliónmy uivate¾ov denne ako Twitter, Youtube, Flickr.
+Memcached pouívajú taktie cloud sluby Google app engine, Amazon AWS a Windows Azure.[4-https://developers.google.com/appengine/articles/scaling/memcache]
+
+Ako systém funguje? Uivate¾ príde na webovú stránku na ktorej sú datá èerpané z databázy. Webserver sa pozrie èi sú dáta na webovej stránke
+uloené v memcache pamäti. Pokia¾ sú, datá sa pošlú z tejto rıchlej pamäti. V opaènom prípade prevedie dotaz databázovı systém nad tabulkou
+a naèítané datá sa uloia do memcached pamäti defaultne pomocou algoritmu Least Recently Used.[5-Building Scalable Web Sites: Building, Scaling, and Optimizing the Next Generation of Web Applications]
+Memcached je teda vıhodnı pouíva, keï sa data èastejšie èítajú ako sa zapisujú.
+
+                 hits
+hit ratio = ---------------
+             hits + misses
+
+miss ratio = 1 - hit ratio

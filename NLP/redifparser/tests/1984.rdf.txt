@@ -1,0 +1,628 @@
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Quarterly review of monetary conditions
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:11
+Volume:47
+Year:1984
+Month:december
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984dec47_11quaterlyreviewofmonetaryconditions.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:539KB
+Handle: RePEc:nzb:nzbbul:december1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:The 1984 budget
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:11
+Volume:47
+Year:1984
+Month:december
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984dec_47_11the1984budget.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:315KB
+Handle: RePEc:nzb:nzbbul:december1984:2
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:The New Zealand economy: six monthly review
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:10
+Volume:47
+Year:1984
+Month:november
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984nov47_10thenzeconomysixmonthlyreview.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:755KB
+Handle: RePEc:nzb:nzbbul:november1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Consolidated Government and Reserve Bank accounts
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:10
+Volume:47
+Year:1984
+Month:november
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984nov47_10consolidatedgovernmentandreservebankaccounts.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:374KB
+Handle: RePEc:nzb:nzbbul:november1984:2
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:1983/84 wool season review
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:10
+Volume:47
+Year:1984
+Month:november
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984nov47_101983_84woolseasonreview.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:408KB
+Handle: RePEc:nzb:nzbbul:november1984:3
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Monetary policy since the change of Government
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:9
+Volume:47
+Year:1984
+Month:october
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984oct47_9monetarypolicysincethechangeofgovernment.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:204KB
+Handle: RePEc:nzb:nzbbul:october1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:1983/84 dairy season review
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:9
+Volume:47
+Year:1984
+Month:october
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984oct47_91983_84dairyseasonreview.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:447KB
+Handle: RePEc:nzb:nzbbul:october1984:2
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Alternative approaches to monetary management
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:9
+Volume:47
+Year:1984
+Month:october
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984oct47_9alternativeapproachestomonetarymanagement.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:522KB
+Handle: RePEc:nzb:nzbbul:october1984:3
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Some notes about notes
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:9
+Volume:47
+Year:1984
+Month:october
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984oct47_9somenotesaboutnotes.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:666KB
+Handle: RePEc:nzb:nzbbul:october1984:4
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Quarterly review of monetary conditions
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:8
+Volume:47
+Year:1984
+Month:september
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984sept47_8quarterlyreviewofmonetaryconditions.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:555KB
+Handle: RePEc:nzb:nzbbul:september1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Influences on trading bank reserve assets
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:8
+Volume:47
+Year:1984
+Month:september
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984sept47_8influencesontradingbankreserveassets.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:407KB
+Handle: RePEc:nzb:nzbbul:september1984:2
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Overseas exchange transactions year ended June 1984
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:8
+Volume:47
+Year:1984
+Month:september
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984sept47_8overseasexchangetransactionsyearendedjune1984.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:521KB
+Handle: RePEc:nzb:nzbbul:september1984:3
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Manufactured exports to Australia
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:7
+Volume:47
+Year:1984
+Month:august
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984aug47_7manufacturedexportstoaustralia.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:259KB
+Handle: RePEc:nzb:nzbbul:august1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:A quarterly money supply series constructed for New Zealand for the period 1934-59 
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:7
+Volume:47
+Year:1984
+Month:august
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984aug47_7aquarterlymoneysupply.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:258KB
+Handle: RePEc:nzb:nzbbul:august1984:2
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Reserve Bank Annual Report
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:7
+Volume:47
+Year:1984
+Month:august
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984aug47_7reservebankannualreport.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:646KB
+Handle: RePEc:nzb:nzbbul:august1984:3
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Uses of savings in New Zealand
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:6
+Volume:47
+Year:1984
+Month:july
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984july47_6usesofsavingsinnz.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:440KB
+Handle: RePEc:nzb:nzbbul:july1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Developments in the international economy
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:6
+Volume:47
+Year:1984
+Month:july
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984july47_6developmentsintheinternationaleconomy
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:698KB
+Handle: RePEc:nzb:nzbbul:july1984:2
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Quarterly review of monetary conditions and policy
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:5
+Volume:47
+Year:1984
+Month:june
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984june47_5quarterlyreviewofmonetaryconditionsandpolicy.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:485KB
+Handle: RePEc:nzb:nzbbul:june1984:1
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:New Zealand economy - six monthly review
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:4
+Volume:47
+Year:1984
+Month:may
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984may47_4nzeconomy_sixmonthlyreview.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:833KB
+Handle: RePEc:nzb:nzbbul:may1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Reserve Bank share price index
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:4
+Volume:47
+Year:1984
+Month:may
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984may47_4reservebanksharepriceindex.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:221KB
+Handle: RePEc:nzb:nzbbul:may1984:2
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:The developing countries of eastern Asia: 1
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:3
+Volume:47
+Year:1984
+Month:april
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984april47_3thedevelopingcountriesofeasternasia1.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:832KB
+Handle: RePEc:nzb:nzbbul:april1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:1982/83 meat industry review
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:3
+Volume:47
+Year:1984
+Month:april
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984april47_31982_83meatindustryreview.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:513KB
+Handle: RePEc:nzb:nzbbul:april1984:2
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Overseas exchange transactions year ended December 1983
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:2
+Volume:47
+Year:1984
+Month:march
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984mar47_2overseasexchange.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:1,337KB
+Handle: RePEc:nzb:nzbbul:march1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Quarterly review of monetary conditions and policy
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:2
+Volume:47
+Year:1984
+Month:march
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984mar47_2quarterlyreviewofmonetaryconditionsandpolicy.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:637KB
+Handle: RePEc:nzb:nzbbul:march1984:2
+
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Developments and prospects for the international economy
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:1
+Volume:47
+Year:1984
+Month:january/february
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984jan_feb47_1developmentsandprospectsfortheinternationaleconomy.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:838KB
+Handle: RePEc:nzb:nzbbul:january/february1984:1
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:New Zealand economic chronology 1983
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:1
+Volume:47
+Year:1984
+Month:january/february
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984jan_feb47_1nzeconomicchronology1983.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:438KB
+Handle: RePEc:nzb:nzbbul:january/february1984:2
+
+Template-type: ReDIF-Article 1.0 
+Author-Name:anonymous
+Author-Email: 
+Author-Homepage:
+Author-Workplace-Name: Reserve Bank of New Zealand
+Author-Workplace-Homepage:
+Title:Monetary policy measures
+Abstract:
+Classification-JEL:
+Keywords:
+Note: 
+Pages:
+Number:1
+Volume:47
+Year:1984
+Month:january/february
+File-URL:http://www.rbnz.govt.nz/research/bulletin/1980_1986/1984jan_feb47_1monetarypolicymeasures.pdf
+File-Format:application/pdf
+File-Restriction:
+File-Function: 
+File-Size:264KB
+Handle: RePEc:nzb:nzbbul:january/february1984:3

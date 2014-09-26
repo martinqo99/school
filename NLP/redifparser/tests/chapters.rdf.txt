@@ -1,0 +1,303 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Sidney G. Winter
+Title: Economic "Natural Selection" and the Theory of the Firm
+Book-Title: Yale Economic Essays
+Pages: 225-272
+Year: 1964
+File-URL: http://www.lem.sssup.it/WPLem/files/winter_1964.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:winter-1964
+
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Introduction
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 1-14
+Chapter: 1
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_I.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-1
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Technology and trade: An overview of the literature
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 15-39
+Chapter: 2
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_II.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-2
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: The empirical evidence:'Stylized' and 'less stylized' facts on technology, growth and trade 
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 40-74
+Chapter: 3
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_III.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-3
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: The innovative process: International differences in technology: A theoretical interpretation and some tests 
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 75-113
+Chapter: 4
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_IV.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-4
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Interfirm and international differences in technology: A theoretical interpretation and some tests 
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 114-140
+Chapter: 5
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_V.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-5
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Technology gaps, cost-based adjustments and international trade 
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 141-197
+Chapter: 6
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_VI.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-6
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Technology gaps in open economies 
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 198-236
+Chapter: 7
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_VII.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-7
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Markets, institutions and technical changes in open economies: Some policy implications 
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 237-263
+Chapter: 8
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_VIII.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-8
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Keith Pavitt
+Author-Name: Luc Soete
+Title: Conclusions, Bibliography, Index
+Book-Title: The Economics of Technical Change and International Trade
+In-Book: RePEc:ssa:lembks:dosietal-1990
+Pages: 264-303
+Chapter: 9
+Year: 1990
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1990_IX.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1990-9
+
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Christopher Freeman
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part I - Introduction
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 1-8
+Chapter: 1 
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_I.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-1
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Christopher Freeman
+Author-Name: Giovanni Dosi 
+Author-Name: Luigi Orsenigo
+Author-Name: Christopher Freeman
+Author-Name: Carlota Perez
+Author-Name: Robert Boyer
+Author-Name: Peter Allen 
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part II - Evolution, technology, and institutions: a wider framework for economic analysis
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 9-119
+Chapter: 2-5 
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_II.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-2
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Giovanni Dosi
+Author-Name: Fabrizio Coricelli
+Author-Name: Marco Lippi
+Author-Name: Ronald Heiner
+Author-Name: Norman Clark
+Author-Name: Calestous Juma
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part III - How well does established theory work
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 120-218
+Chapter: 6-9
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_III.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-3
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Richard Nelson
+Author-Name: Giovanni Dosi
+Author-Name: Marc Willinger
+Author-Name: Ehud Zuscovitch 
+Author-Name: David Teece
+Author-Name: Neil Kay
+Author-Name: Rod Coombs
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part IV - Innovation and the evolution of firms
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 219-308
+Chapter: 10-14
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_IV.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-4
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Richard Nelson
+Author-Name: Christopher Freeman
+Author-Name: Bengt-Ake Lundvall
+Author-Name: Pavel Pelikan
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part V - National Systems of innovation
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 309-398
+Chapter: 15-18
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_V.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-5
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Luc Soete
+Author-Name: Giovanni Dosi
+Author-Name: Jan Fagerberg
+Author-Name: Carlota Perez
+Author-Name: Kurt Unger
+Author-Name: Francois Chesnais
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part VI - International diffusion of technology and international trade competition
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 399-527
+Chapter: 19-23
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_VI.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-6
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Gerarld Silverberg
+Author-Name: Stan Metcalfe
+Author-Name: Brian Arthur
+Author-Name: Robert Boyer
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part VII - Formal Models
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 528-630
+Chapter: 24-27
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_VII.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-7
+
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Richard Nelson
+Author-Name: Luc Soete
+Editor-Name: Giovanni Dosi
+Editor-Name: Christopher Freeman
+Editor-Name: Richard Nelson
+Editor-Name: Gerarld Silverberg
+Editor-Name: Luc Soete
+Title: Part VIII - Conclusions
+Book-Title: Technical Change and Economic Theory
+In-Book: RePEc:ssa:lembks:dosietal-1988
+Pages: 631-646
+Chapter: 28
+Year: 1988
+File-URL: http://www.lem.sssup.it/WPLem/files/dosietal_1988_VIII.pdf
+File-Format: Application/pdf
+Handle: RePEc:ssa:lemchs:dosietal-1988-8
+

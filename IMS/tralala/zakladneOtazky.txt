@@ -1,0 +1,6 @@
+﻿Hladanie optimalneho poctu procesorov.
+Vyplati sa investovat do rychlejsich diskov?
+Vyplati sa investovat do cache pamati?
+Ake je zrychlenie systemu pri pouziti memcache systemu?
+Ake su minimalne parametre, pri ktorych server stiha vybavovanie uzivatelov?
+Kolik uživatelů je současná konfigurace schopna obsloužit?

@@ -1,0 +1,195 @@
+﻿Template-Type: ReDIF-Article 1.0
+Author-Name: Petra Beranová
+Title: -
+Abstract: -
+Pages: 7-25
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=242.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=242
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:242:p:7-25
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eva Ducháčková
+Title: -
+Abstract: -
+Pages: 26-37
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=243.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=243
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:243:p:26-37
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eva Klvačová
+Title: -
+Abstract: -
+Pages: 38-50
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=246.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=246
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:246:p:38-50
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jiří Malý
+Title: -
+Abstract: -
+Pages: 51-58
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=247.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=247
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:247:p:51-58
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Miloš Mařík
+Title: -
+Abstract: -
+Pages: 59-70
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=249.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=249
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:249:p:59-70
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Karel Mráček
+Title: -
+Abstract: -
+Pages: 71-83
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=250.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=250
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:250:p:71-83
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Lenka Nigrinová
+Title: -
+Abstract: -
+Pages: 84-95
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=261.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=261
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:261:p:84-95
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Alexandr Ort
+Title: -
+Abstract: -
+Pages: 96-108
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=262.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=262
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:262:p:96-108
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jan Pavlok
+Title: -
+Abstract: -
+Pages: 109-123
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=263.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=263
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:263:p:109-123
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Božena Plchová
+Title: -
+Abstract: -
+Pages: 124-142
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=264.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=264
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:264:p:124-142
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jana Sereghyová
+Title: -
+Abstract: -
+Pages: 143-168
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=265.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=265
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:265:p:143-168
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Miloslav Synek
+Title: -
+Abstract: -
+Pages: 170-195
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=266.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=266
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:266:p:170-195
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Marie Vavrejnová
+Title: -
+Abstract: -
+Pages: 195-218
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=267.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=267
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:267:p:195-218
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: František Vencovský
+Title: -
+Abstract: -
+Pages: 219-225
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=268.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=268
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:268:p:219-225
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Petr Wawrosz
+Title: -
+Abstract: -
+Pages: 226-271
+Volume: 2004
+Issue: 3
+Year: 2004
+File-URL: http://www.vse.cz/polek/download.php?jnl=aop&pdf=269.pdf
+File-URL: http://www.vse.cz/aop/abstrakt.php3?IDcl=269
+File-Format: text/html
+Handle: RePEc:prg:jnlaop:v:2004:y:2004:i:3:id:269:p:226-271
+
