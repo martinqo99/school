@@ -1,3 +1,0 @@
-http://www.cs.mcgill.ca/~cs251/ClosestPair/2-4trees.html
-http://pages.cs.wisc.edu/~vernon/cs367/notes/10.23TREE.html
-http://stackoverflow.com/questions/15163623/balanced-binary-search-treestore-data-only-in-leaves
